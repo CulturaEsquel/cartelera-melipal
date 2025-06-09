@@ -2,7 +2,6 @@
 html, body {
   height: 100%;
   margin: 0;
-  background-color: black;
 }
 
 .zona {
@@ -10,7 +9,6 @@ html, body {
   height: 100%;
   overflow: hidden;
   position: relative;
-  background-color: black;
 }
 
 .zona img {
@@ -24,4 +22,16 @@ html, body {
 
 .zona img.active {
   opacity: 1;
+}
+
+.zona-wrapper {
+  position: relative;
+  height: 100%;
+}
+.etiqueta-vertical {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%) rotate(-90deg);
+  transform-origin: left center;
 }

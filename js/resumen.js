@@ -1,7 +1,7 @@
 fetch('resumen.txt')
   .then(response => response.text())
   .then(data => {
-    const eventos = data.trim().split('\n\n');
+    const eventos = data.trim().split(/(?:\r?\n){2,}/);
     let html = '<div class="p-2 mb-3"><h2>Próximos Eventos</h2>';
 
     eventos.forEach(evento => {

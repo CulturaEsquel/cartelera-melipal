@@ -1,9 +1,16 @@
 Día: 10
 Mes: Junio
-Hora: 19:00
-Evento: Obra de Teatro "La Vida"
-Categoría: Teatro
-Lugar: Centro Cultural Municipal
+Hora: 15:30 h | 18:30 h
+Evento: MISIÓN: IMPOSIBLE: LA SENTENCIA FINAL 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 10
+Mes: Junio
+Hora: 21:30 h
+Evento: MISIÓN: IMPOSIBLE: LA SENTENCIA FINAL 
+Categoría: Cine
+Lugar: Auditorio Municipal
 
 Día: 12
 Mes: Junio

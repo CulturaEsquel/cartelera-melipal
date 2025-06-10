@@ -1,0 +1,27 @@
+Día: 10
+Mes: Junio
+Hora: 19:00
+Evento: Obra de Teatro "La Vida"
+Categoría: Teatro
+Lugar: Centro Cultural Municipal
+
+Día: 12
+Mes: Junio
+Hora: 21:00
+Evento: Concierto de Jazz
+Categoría: Música
+Lugar: Teatro Principal
+
+Día: 15
+Mes: Junio
+Hora: 18:00
+Evento: Taller de Cerámica
+Categoría: Taller
+Lugar: Casa de la Cultura
+
+Día: 18
+Mes: Junio
+Hora: 17:00
+Evento: Muestra de Cine Local
+Categoría: Cine
+Lugar: Salón Comunal

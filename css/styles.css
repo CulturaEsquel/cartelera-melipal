@@ -1,3 +1,4 @@
+
 html, body {
   height: 100%;
   margin: 0;
@@ -5,7 +6,6 @@ html, body {
 
 .zona {
   width: 100%;
-  height: 100%;
   overflow: hidden;
   position: relative;
 }
@@ -13,7 +13,6 @@ html, body {
 .zona img {
   position: absolute;
   width: 100%;
-  height: 100%;
   object-fit: contain;
   opacity: 0;
   transition: opacity 1s ease-in-out;
@@ -23,13 +22,8 @@ html, body {
   opacity: 1;
 }
 
-.zona-wrapper {
-  position: relative;
-  height: 100%;
-}
-
 .etiqueta-vertical {
-  position: absolute;
+  position: relative;
   top: 50%;
   transform: translateY(-50%) rotate(-90deg);
   transform-origin: left top;

@@ -26,8 +26,7 @@ html, body {
 
 .etiqueta-vertical {
   position: absolute;
-  left: 0;
   top: 50%;
-  transform: translateY(-50%) rotate(-90deg);
-  transform-origin: left center;
+  transform: rotate(-90deg);
+  transform-origin: left;
 }

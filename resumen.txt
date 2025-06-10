@@ -12,23 +12,9 @@ Evento: MISIÓN: IMPOSIBLE: LA SENTENCIA FINAL
 Categoría: Cine
 Lugar: Auditorio Municipal
 
-Día: 12
+Día: 14
 Mes: Junio
-Hora: 21:00
-Evento: Concierto de Jazz
-Categoría: Música
-Lugar: Teatro Principal
-
-Día: 15
-Mes: Junio
-Hora: 18:00
-Evento: Taller de Cerámica
-Categoría: Taller
-Lugar: Casa de la Cultura
-
-Día: 18
-Mes: Junio
-Hora: 17:00
-Evento: Muestra de Cine Local
-Categoría: Cine
-Lugar: Salón Comunal
+Hora: 21:00 h
+Evento: La Cuatica | "Infierno Grande"
+Categoría: Teatro/Impro
+Lugar: Centro Cultural Esquel Melipal

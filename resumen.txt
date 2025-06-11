@@ -1,17 +1,3 @@
-Día: 10
-Mes: Junio
-Hora: 15:30 h <br>18:30 h
-Evento: Lilo & Stich 
-Categoría: Cine
-Lugar: Auditorio Municipal
-
-Día: 10
-Mes: Junio
-Hora: 21:30 h
-Evento: MISIÓN: IMPOSIBLE: LA SENTENCIA FINAL 
-Categoría: Cine
-Lugar: Auditorio Municipal
-
 Día: 14
 Mes: Junio
 Hora: 21:00 h

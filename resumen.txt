@@ -1,6 +1,13 @@
 Día: 14
-Mes: Junio
+Mes: JUN
 Hora: 21:00 h
 Evento: La Cuatica | "Infierno Grande"
 Categoría: Teatro/Impro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 5
+Mes: JUL
+Hora: 15 h
+Evento: Seminario | Filete Porteño
+Categoría: Taller intensivo
 Lugar: Centro Cultural Esquel Melipal

@@ -5,24 +5,24 @@ Este proyecto es una cartelera digital diseñada para pantallas Smart TV con And
 ---
 
 ## 🗂 Estructura del proyecto
-
-cartelera-digital/\
-├── index.html → Página principal\
-├── resumen.txt → lista de eventos que aparece en la zona `resumen`\
-├── manifest.json → Archivo con la cantidad de imágenes por zona\
-├── css/\
-│ └── styles.css → estilos css adicionales\
-├── js/\
-│ └── galerias.js → Script que gestiona las galerías por zona\
-│ └── resumen.js → Script que toma los datos del archivo `resumen.txt` y los incerta en la zona `resumen`\
-├── eventos/\
-│ └── 1.jpg, 2.jpg, ...\
-├── talleres/\
-│ └── 1.jpg, 2.jpg, ...\
-└── muestras/\
-│ └── 1.jpg, 2.jpg, ...\
-└── img/\  → esta carpeta contiene imágenes de recursos fijos, como un código QR
-
+```
+cartelera-digital/
+├── css/
+  └── styles.css → estilos css adicionales
+├── eventos/
+  └── 1.jpg, 2.jpg, ...
+├── img/ → esta carpeta contiene imágenes de recursos fijos, como un código QR
+├── js/
+  └── galerias.js → Script que gestiona las galerías por zona
+  └── resumen.js → Script que toma los datos del archivo `resumen.txt` y los incerta en la zona `resumen`
+├── muestras/
+  └── 1.jpg, 2.jpg, ...
+├── talleres/
+  └── 1.jpg, 2.jpg, ...
+├── index.html → Página principal
+├── manifest.json → Archivo con la cantidad de imágenes por zona
+├── resumen.txt → lista de eventos que aparece en la zona `resumen`
+```
 ---
 
 ## 🖼 Nombres de zonas

@@ -2,6 +2,8 @@
 
 Este proyecto es una cartelera digital diseñada para pantallas Smart TV con Android TV. Muestra contenido dividido en 4 zonas, cada una con su propia galería de imágenes en rotación automática.
 
+Lá página se muestra en [https://culturaesquel.github.io/cartelera-melipal/](https://culturaesquel.github.io/cartelera-melipal/)
+
 ---
 
 ## 🗂 Estructura del proyecto

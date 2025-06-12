@@ -6,7 +6,7 @@ Este proyecto es una cartelera digital diseñada para pantallas Smart TV con And
 
 ## 🗂 Estructura del proyecto
 ```
-cartelera-digital/
+cartelera-melipal/
 ├── css/
   └── styles.css → estilos css adicionales
 ├── eventos/

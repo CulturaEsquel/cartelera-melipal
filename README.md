@@ -36,7 +36,7 @@ Las 4 zonas de la pantalla están divididas en:
 - `talleres`
 - `muestras`
 
-Cada una tiene su propia carpeta con imágenes numeradas (`1.jpg`, `2.jpg`, etc.).\
+Cada una tiene su propia carpeta con imágenes numeradas (`1.jpg`, `2.jpg`, etc.). Es importante fijarse que sean `.jpg` y no `.png` o `.jpeg`\
 Excepto la zona `resumen`.  Esta zona toma los datos del archivo `resumen.txt` y los muestra formateados
 
 ---
@@ -73,7 +73,7 @@ los datos o campos para cada evento son:\
 
 ## 🔧 Cómo actualizar el contenido
 
-1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), deben estar numeradas desde el 1 al numero que llegue, pero no pueden haber numeros faltantes (ej, no puede pasar que haya `1.jpg` y `3.jpg` pero que falte el `2.jpg`).
+1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), deben estar numeradas desde el 1 al numero que llegue, pero no pueden haber numeros faltantes (ej, no puede pasar que haya `1.jpg` y `3.jpg` pero que falte el `2.jpg`). Es importante fijarse que sean `.jpg` y no `.png` o `.jpeg`.
 2. edita el archivo `manifest.json` con la cantidad de imágenes por carpeta, es decir, el último numero más alto que haya en la carpeta.
 3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner.
 4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub).

@@ -40,7 +40,7 @@ Excepto la zona `resumen`.  Esta zona toma los datos del archivo `resumen.txt` y
 ---
 
 ## 🗒 Archivo `manifest.json`
-El archivo manifest.json indica cuántas imágenes hay en cada carpeta, y se actualiza solo al correr el script.
+El archivo manifest.json indica cuántas imágenes hay en cada carpeta.
 
 El archivo tiene este formato:
 ```

@@ -28,16 +28,16 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 15
 Mes: JUN
-Hora: 18:30 h
-Evento: El Arte de Ser
-Categoría: Muestra del Centro de Día
-Lugar: Auditorio Municipal
-
-Día: 15
-Mes: JUN
 Hora: 20:00 h
 Evento: Mapuche Mollfün: La sangre tira
 Categoría: Amelkan/Teatro Mapuche
+Lugar: Auditorio Municipal
+
+Día: 17
+Mes: JUN
+Hora: 18:30 h
+Evento: El Arte de Ser
+Categoría: Muestra del Centro de Día
 Lugar: Auditorio Municipal
 
 Día: 5

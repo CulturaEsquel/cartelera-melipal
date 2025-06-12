@@ -56,7 +56,7 @@ Solo hay que modificar los numero con la cantidad de imágenes de cada carpeta, 
 
 ## 🗒 Archivo `resumen.txt`
 
-✅Este archivo contiene la lista de eventos que se muestran a la izquierda de la pantalla, con campos detallados. La página toma de este archivo los datos de cada campo y los incerta en la página ya con un formato específico. Por lo que se deben respetar que siempre esten  los campos necesarios.
+✅Este archivo contiene la lista de eventos con campos detallados, que se mostrarán a la izquierda de la pantalla. La página toma de este archivo los datos de cada campo y los incerta en la página ya con un formato específico. Por lo que se deben respetar que siempre estén completos todos los campos. El orden de los mismos puede variara, pero nunca estar incompletos.
 
 los datos o campos para cada evento son:\
 `Día:` → _solo el numero de día_ ej `18`\
@@ -65,21 +65,15 @@ los datos o campos para cada evento son:\
 `Evento:`→ _nombre del evento_ ej `La Cuatica | PUEBLO CHICO`\
 `Categoría:`→ _catigoría orientativa_ ej `cine` `teatro` `teatro/infantil` `inauguración de muestra`\
 `Lugar:`→ _Lugar_ ej `Auditorio Municipal`\
-`_salto de linea_`→ _una separación de salto de linea vacía_ (esto es muy importante porque hace que el script detecte que es un evento distinto)
-
----
-
-## 🔁 Transiciones
-
-Cada zona cambia de imagen automáticamente cada **5 segundos**, con una **transición suave** entre una imagen y otra.
+`_separación de un parrafo_`→ _una separación de salto de linea vacía_ esto es muy importante porque hace que el script detecte que es un evento distinto
 
 ---
 
 ## 🔧 Cómo actualizar el contenido
 
-1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), deben estar numeradas desde el 1 al numero que llegue, no pueden haber numeros faltantes (ej, no puede pasar que haya `1.jpg` y `3.jpg` pero que falte el `2.jpg`).
+1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), deben estar numeradas desde el 1 al numero que llegue, pero no pueden haber numeros faltantes (ej, no puede pasar que haya `1.jpg` y `3.jpg` pero que falte el `2.jpg`).
 2. edita el archivo `manifest.json` con la cantidad de imágenes por carpeta, es decir, el último numero más alto que haya en la carpeta.
-3. edita el archivo `resumen.txt` agregando todos los eventos que se quieran poner
-4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub)\
+3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner.
+4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub).
 
 Este proyecto puede modificarse libremente bajo la licencia MIT.

@@ -63,7 +63,7 @@ Solo hay que modificar los numero con la cantidad de imágenes de cada carpeta, 
 los datos o campos para cada evento son:\
 `Día:` → _solo el numero de día_ ej `18`\
 `Mes:`→ _mes resumido_ ej `JUN`\
-`Hora:`→ _hora, para resumir pongo solo la h, si hay dos horarios escribo <br> para que el segundo horario aparezca abajo_ ej `18:00 h` | si hay dos horarios `18:00 h <br>21:30 h`\
+`Hora:`→ _hora, para resumir pongo solo la h, si hay dos horarios escribo `<br>` para que el segundo horario aparezca abajo_ ej `18:00 h` | si hay dos horarios `18:00 h <br>21:30 h`\
 `Evento:`→ _nombre del evento_ ej `La Cuatica | PUEBLO CHICO`\
 `Categoría:`→ _catigoría orientativa_ ej `cine` `teatro` `teatro/infantil` `inauguración de muestra`\
 `Lugar:`→ _Lugar_ ej `Auditorio Municipal`\

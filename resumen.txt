@@ -42,7 +42,7 @@ Lugar: Auditorio Municipal
 
 Día: 5
 Mes: JUL
-Hora: 15 h
+Hora: 15:00 h
 Evento: Seminario | Filete Porteño
 Categoría: Taller intensivo
 Lugar: Centro Cultural Esquel Melipal

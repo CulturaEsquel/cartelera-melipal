@@ -15,7 +15,7 @@ fetch('resumen.txt')
       });
 
       html += `
-      <div class="card mb-3 position-relative">
+      <div class="card mb-2 position-relative">
         <span class="badge rounded-pill text-bg-secondary position-absolute top-0 end-0">${eventoObj['Categoría'] || ''}</span>
         <div class="row g-0">
           <div class="col-auto align-self-center text-center p-2 border-end lh-1">
@@ -25,7 +25,7 @@ fetch('resumen.txt')
           </div>
           <div class="col align-self-center p-2 mt-3">
             <div class="fw-semibold fs-6">${eventoObj['Evento'] || ''}</div>
-            <div class="text-body-secondary">${eventoObj['Lugar'] || ''}</div>
+            <div class="text-body-secondary fs-7">${eventoObj['Lugar'] || ''}</div>
           </div>
         </div>
       </div>`;

@@ -2,30 +2,10 @@
 
 Este proyecto es una cartelera digital diseñada para pantallas Smart TV con Android TV. Muestra contenido dividido en 4 zonas, cada una con su propia galería de imágenes en rotación automática.
 
-Lá página se muestra en [https://culturaesquel.github.io/cartelera-melipal/](https://culturaesquel.github.io/cartelera-melipal/)
+Lá página se muestra en la dirección: [https://culturaesquel.github.io/cartelera-melipal/](https://culturaesquel.github.io/cartelera-melipal/)
 
----
+En este archivo se explica las partes más importantes para poder mantener actualizada la página.
 
-## 🗂 Estructura del proyecto
-```
-cartelera-melipal/
-├── css/
-  └── styles.css → estilos css adicionales
-├── eventos/
-  └── 1.jpg, 2.jpg, ...
-├── img/ → esta carpeta contiene imágenes de recursos fijos, como un código QR
-├── js/
-  └── galerias.js → Script que gestiona las galerías por zona
-  └── resumen.js → Script que toma los datos del archivo `resumen.txt` y los incerta en la zona `resumen`
-├── muestras/
-  └── 1.jpg, 2.jpg, ...
-├── talleres/
-  └── 1.jpg, 2.jpg, ...
-├── index.html → Página principal
-├── manifest.json 
-├── galerias.txt → Archivo con la cantidad de imágenes por zona
-├── resumen.txt → lista de eventos que aparece en la zona `resumen`
-```
 ---
 
 ## 🖼 Nombres de zonas
@@ -43,7 +23,7 @@ Cada muestra una galería de imágenes en loop que extrae de una carpeta exclusi
 
 ## 📁 Carpetas
 
-Hay solo tres carpetas con imágenes que se deben ir actualizando, cada carpeta tiene las imágenes de la galería para una zona en particular.\
+Hay solo tres carpetas con imágenes que se deben ir actualizando, cada carpeta tiene las imágenes de la galería para una zona en particular. El resto de las carpetas no se deben tocar.\
 Las carpetas son:
 - 📂eventos
 - 📂talleres

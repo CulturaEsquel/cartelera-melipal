@@ -43,7 +43,7 @@ Excepto la zona `resumen`.  Esta zona toma los datos del archivo `resumen.txt` y
 ---
 
 ## 🗒 Archivo `galerias.txt`
-El archivo manifest.json indica cuántas imágenes hay en cada carpeta.
+El archivo galerias.txt indica cuántas imágenes hay en cada carpeta.
 
 El archivo tiene este formato:
 ```

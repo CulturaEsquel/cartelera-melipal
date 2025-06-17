@@ -89,7 +89,7 @@ los datos o campos para cada evento son:\
 
 ## 🔧 Cómo actualizar el contenido
 
-1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), considerando lo dicho anteriormente en la sección [carpetas](#carpetas).
-2. edita el archivo `galerias.txt` con la cantidad de imágenes por carpeta, considerando la sección [archivo galerias.txt](#archivo-galeriastxt).
-3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner segun la sección [archivo resumen.txt](#archivo-resumentxt).
+1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), considerando lo dicho anteriormente en la sección [carpetas](#-carpetas).
+2. edita el archivo `galerias.txt` con la cantidad de imágenes por carpeta, considerando la sección [archivo galerias.txt](#-archivo-galeriastxt).
+3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner segun la sección [archivo resumen.txt](#a-rchivo-resumentxt).
 4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub).

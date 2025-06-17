@@ -22,7 +22,8 @@ cartelera-melipal/
 ├── talleres/
   └── 1.jpg, 2.jpg, ...
 ├── index.html → Página principal
-├── manifest.json → Archivo con la cantidad de imágenes por zona
+├── manifest.json 
+├── galerias.txt → Archivo con la cantidad de imágenes por zona
 ├── resumen.txt → lista de eventos que aparece en la zona `resumen`
 ```
 ---
@@ -41,18 +42,16 @@ Excepto la zona `resumen`.  Esta zona toma los datos del archivo `resumen.txt` y
 
 ---
 
-## 🗒 Archivo `manifest.json`
+## 🗒 Archivo `galerias.txt`
 El archivo manifest.json indica cuántas imágenes hay en cada carpeta.
 
 El archivo tiene este formato:
 ```
-{
-  "eventos": 4,
-  "talleres": 12,
-  "muestras": 4
-}
+eventos: 4
+talleres: 12
+muestras: 4
 ```
-Solo hay que modificar los numero con la cantidad de imágenes de cada carpeta, evitando modificar otras partes del texto, si se borra un `;` o un `{` se rompe el script
+Solo hay que modificar los numero con la cantidad de imágenes de cada carpeta, evitando modificar otras partes del texto, no agregar espacios de más o lineas vacias, se rompe el script
 
 ---
 
@@ -74,8 +73,6 @@ los datos o campos para cada evento son:\
 ## 🔧 Cómo actualizar el contenido
 
 1. Reemplazá o agregá imágenes en las carpetas correspondientes (`muestras/`, `eventos/`,`talleres/`), deben estar numeradas desde el 1 al numero que llegue, pero no pueden haber numeros faltantes (ej, no puede pasar que haya `1.jpg` y `3.jpg` pero que falte el `2.jpg`). Es importante fijarse que sean `.jpg` y no `.png` o `.jpeg`.
-2. edita el archivo `manifest.json` con la cantidad de imágenes por carpeta, es decir, el último numero más alto que haya en la carpeta.
+2. edita el archivo `galerias.txt` con la cantidad de imágenes por carpeta, es decir, el último numero más alto que haya en la carpeta.
 3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner.
 4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub).
-
-Este proyecto puede modificarse libremente bajo la licencia MIT.

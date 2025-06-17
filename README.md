@@ -93,3 +93,11 @@ los datos o campos para cada evento son:\
 2. edita el archivo `galerias.txt` con la cantidad de imágenes por carpeta, considerando la sección [Archivo galerias.txt](#-archivo-galeriastxt).
 3. edita el archivo `resumen.txt` agregando todos los eventos que se quiera poner segun la sección [Archivo resumen.txt](#-archivo-resumentxt).
 4. Subí los cambios a GitHub (o reemplazá manualmente los archivos en GitHub).
+5. ¿Cómo se se suben los archivos a este lugar? a continuación como subir los nuevos archivos:
+
+**SUBIR ARCHIVOS A GITHUB:**
+1. En esta página ir a `add file` y luego a `upload files`\ ![](https://github.com/CulturaEsquel/cartelera-melipal/blob/bca9cb58a1411257cdee680faf11c2d54da467ee/img/captura1.JPG)
+2. Arrastrá las carpetas con las nuevas imágenes y los dos archivos .txt modificadosal recuadro\ ![](https://github.com/CulturaEsquel/cartelera-melipal/blob/bca9cb58a1411257cdee680faf11c2d54da467ee/img/captura2.JPG)
+3. Esperá a que se carguen todos los archivos según la barra de progreso que se muestra en la pantalla\ ![](https://github.com/CulturaEsquel/cartelera-melipal/blob/bca9cb58a1411257cdee680faf11c2d54da467ee/img/captura3.JPG)
+4. baja hasta el final y hace clic en `commit changes` ![](https://github.com/CulturaEsquel/cartelera-melipal/blob/bca9cb58a1411257cdee680faf11c2d54da467ee/img/captura4.JPG)
+5. LISTO! ahora hay que esperar unos minutos a que se termine el proceso automatico de actualización de la página. Puede tardar hasta 10 min.

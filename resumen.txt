@@ -1,3 +1,31 @@
+Día: 20
+Mes: JUN
+Hora: 21:00 h
+Evento: MEMORIA DEL DESALOJO | Grupo Picaporte
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 21
+Mes: JUN
+Hora: 15:00 h
+Evento: VENTANA EN EL BARRIO | TAMFI-TAMFOC
+Categoría: Encuentro de Talleres
+Lugar: Centro de Encuentro (Av. Holdich 960)
+
+Día: 21
+Mes: JUN
+Hora: 21:00 h
+Evento: MAKTUB | Estudio de danzas Árabes Isis
+Categoría: Danzas Árabes
+Lugar: Auditorio Municipal
+
+Día: 22
+Mes: JUN
+Hora: 18:00 h
+Evento: 🎞“MI POSTRE FABORITO”
+Categoría: Cine y Filosofía
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 5
 Mes: JUL
 Hora: 15:00 h

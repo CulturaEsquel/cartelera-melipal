@@ -54,20 +54,6 @@ Evento: CÓMO ENTRENAR A TU DRAGÓN
 Categoría: Cine
 Lugar: Cine Municipal Esquel
 
-Día: 23
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
-Día: 24
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
 Día: 5
 Mes: JUL
 Hora: 15:00 h

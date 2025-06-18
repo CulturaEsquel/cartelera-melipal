@@ -15,17 +15,17 @@ fetch('resumen.txt')
       });
 
       html += `
-      <div class="card mb-2 position-relative">
+      <div class="card mb-2 position-relative lh-1">
         <span class="badge rounded-pill text-bg-secondary position-absolute top-0 end-0">${eventoObj['Categoría'] || ''}</span>
         <div class="row g-0">
-          <div class="col-auto align-self-center text-center p-2 border-end lh-1">
-            <div class="fs-3 fw-bold">${eventoObj['Día'] || ''}</div>
-            <div class="fs-6 text-uppercase">${eventoObj['Mes'] || ''}</div>
-            <div class="fs-6 text-muted">${eventoObj['Hora'] || ''}</div>
+          <div class="col-auto align-self-center text-center p-2 border-end">
+            <div class="fs-4 fw-bold">${eventoObj['Día'] || ''}</div>
+            <div class="fs-7 text-uppercase">${eventoObj['Mes'] || ''}</div>
+            <div class="fs-7 text-muted">${eventoObj['Hora'] || ''}</div>
           </div>
           <div class="col align-self-center p-2 mt-3">
-            <div class="fw-semibold fs-6">${eventoObj['Evento'] || ''}</div>
-            <div class="text-body-secondary fs-7">${eventoObj['Lugar'] || ''}</div>
+            <div class="fw-semibold fs-7">${eventoObj['Evento'] || ''}</div>
+            <div class="text-body-secondary fs-8">${eventoObj['Lugar'] || ''}</div>
           </div>
         </div>
       </div>`;

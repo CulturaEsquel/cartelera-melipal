@@ -95,7 +95,6 @@ html, body {
 #resumen {
   overflow: hidden;
   position: relative;
-  height: 100vh;
 }
 
 .marquee {

@@ -37,3 +37,13 @@ html, body {
 .fs-8{
   font-size: 0.7rem;
 }
+
+#resumen {
+  overflow-y: auto;
+  max-height: 100vh;
+  /*padding-right: 6px; para evitar superposición con el scroll */
+}
+
+#resumen::-webkit-scrollbar {
+  width: 0;
+}

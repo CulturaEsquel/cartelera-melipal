@@ -1,4 +1,4 @@
-
+/*
 html, body {
   height: 100%;
   margin: 0;
@@ -40,10 +40,80 @@ html, body {
 
 #resumen {
   overflow-y: auto;
-  max-height: 100vh;
+  max-height: 100vh;*/
   /*padding-right: 6px; para evitar superposición con el scroll */
 }
-
+/*
 #resumen::-webkit-scrollbar {
   width: 0;
+}*/
+
+/* Estructura general */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid, .row {
+  height: 100%;
+}
+
+.zona {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.zona img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.zona img.active {
+  opacity: 1;
+}
+
+/* Etiquetas verticales */
+.etiqueta-vertical {
+  position: absolute;
+  transform: rotate(-90deg) translateX(-50%) ;
+  transform-origin: left top;
+}
+
+.zona-wrapper {
+  position: relative;
+  height: 100%;
+}
+
+/* Marquesina vertical para zona resumen */
+#resumen {
+  overflow: hidden;
+  position: relative;
+  height: 100vh;
+}
+
+.marquee {
+  display: inline-block;
+  animation: scroll-up linear infinite;
+  animation-duration: 40s;
+}
+
+@keyframes scroll-up {
+  0% { transform: translateY(100%); }
+  100% { transform: translateY(-100%); }
+}
+
+/* Escalas de fuente personalizadas */
+.fs-7 {
+  font-size: 0.75rem !important;
+}
+
+.fs-8 {
+  font-size: 0.65rem !important;
 }

@@ -32,6 +32,6 @@ fetch('resumen.txt')
     });
 
     html += '</div>';
-    document.getElementById('resumen').innerHTML = html;
+    document.getElementById('resumen-contenido').innerHTML = html;
   })
   .catch(error => console.error('Error al cargar el resumen:', error));

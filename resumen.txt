@@ -43,7 +43,7 @@ Lugar: Auditorio Municipal
 Día: 22
 Mes: JUN
 Hora: 18:00 h
-Evento: 🎞“MI POSTRE FABORITO”
+Evento: 🎞“MI POSTRE FAVORITO”
 Categoría: Cine y Filosofía
 Lugar: Centro Cultural Esquel Melipal
 

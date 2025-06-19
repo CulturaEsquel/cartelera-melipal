@@ -7,6 +7,13 @@ Lugar: Cine Municipal Esquel
 
 Día: 20
 Mes: JUN
+Hora: 17:00 A<br>22:00 h
+Evento: COSNTRUYENDO IDENTIDAD | Día de la Bandera 
+Categoría: Feria y Espectáculos
+Lugar: Gimnasio Municipal
+
+Día: 20
+Mes: JUN
 Hora: 18:00 h<br>21:00 h
 Evento: CÓMO ENTRENAR A TU DRAGÓN
 Categoría: Cine

@@ -1,66 +1,3 @@
-Día: 19
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
-Día: 20
-Mes: JUN
-Hora: 17:00 A<br>22:00 h
-Evento: COSNTRUYENDO IDENTIDAD | Día de la Bandera 
-Categoría: Feria y Espectáculos
-Lugar: Gimnasio Municipal
-
-Día: 20
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
-Día: 20
-Mes: JUN
-Hora: 21:00 h
-Evento: MEMORIA DEL DESALOJO | Grupo Picaporte
-Categoría: Teatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: JUN
-Hora: 16:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
-Día: 21
-Mes: JUN
-Hora: 15:00 h
-Evento: VENTANA EN EL BARRIO | TAMFI-TAMFOC
-Categoría: Encuentro de Talleres
-Lugar: Centro de Encuentro (Av. Holdich 960)
-
-Día: 21
-Mes: JUN
-Hora: 21:00 h
-Evento: MAKTUB | Estudio de danzas Árabes Isis
-Categoría: Danzas Árabes
-Lugar: Auditorio Municipal
-
-Día: 22
-Mes: JUN
-Hora: 18:00 h
-Evento: 🎞“MI POSTRE FAVORITO”
-Categoría: Cine y Filosofía
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 22
-Mes: JUN
-Hora: 18:30 h<br>21:30 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
 Día: 23
 Mes: JUN
 Hora: 18:00 h<br>21:00 h
@@ -74,6 +11,13 @@ Hora: 18:00 h<br>21:00 h
 Evento: CÓMO ENTRENAR A TU DRAGÓN
 Categoría: Cine
 Lugar: Cine Municipal Esquel
+
+Día: 25
+Mes: JUN
+Hora: 21:00 h
+Evento: CÓMO NOS PREPARAMOS PARA LAS PRÓXIMAS TORMENTAS GEOMAGNÉTICAS
+Categoría: Charlas de Plaza del Cielo
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 5
 Mes: JUL

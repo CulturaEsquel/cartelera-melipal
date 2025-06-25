@@ -41,8 +41,8 @@ html, body {
 #resumen {
   overflow-y: auto;
   max-height: 100vh;*/
-  /*padding-right: 6px; para evitar superposición con el scroll */
-}
+  /*padding-right: 6px; para evitar superposición con el scroll 
+}*/
 /*
 #resumen::-webkit-scrollbar {
   width: 0;

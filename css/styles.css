@@ -93,12 +93,12 @@ html, body {
 
  
 /*Marquesina vertical para zona resumen*/
-/*
+
 #resumen {
   overflow: hidden;
   position: relative;
 }
-
+/*
 .marquee {
   display: inline-block;
   animation: scroll-up linear infinite;

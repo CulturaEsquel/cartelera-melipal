@@ -39,3 +39,25 @@ Hora: 15:00 h
 Evento: Seminario | Filete Porteño
 Categoría: Taller intensivo
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 5
+Mes: JUL
+Hora: 17:00 h
+Evento: CANTO CLÚ | Musicalidad, voz y cuerpo 
+Categoría: Taller intensivo
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 5
+Mes: JUL
+Hora: 20:30 h
+Evento: RODRIGO CARAZO | Concierto
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 18
+Mes: JUL
+Hora: 20:30 h
+Evento: FRANCISCA y los exploradores
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+

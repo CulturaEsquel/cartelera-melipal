@@ -1,23 +1,37 @@
-Día: 23
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
-Día: 24
-Mes: JUN
-Hora: 18:00 h<br>21:00 h
-Evento: CÓMO ENTRENAR A TU DRAGÓN
-Categoría: Cine
-Lugar: Cine Municipal Esquel
-
 Día: 25
 Mes: JUN
 Hora: 21:00 h
 Evento: CÓMO NOS PREPARAMOS PARA LAS PRÓXIMAS TORMENTAS GEOMAGNÉTICAS
 Categoría: Charlas de Plaza del Cielo
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 25
+Mes: JUN
+Hora: 21:00 h
+Evento: Fotografía y Memoria
+Categoría: Taller Abierto 
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 27
+Mes: JUN
+Hora: 21:00 h
+Evento: ¿Paraíso Mágico y Natural? | de Ayelén Mereb
+Categoría: Presentación de Libro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 29
+Mes: JUN
+Hora: 18:00 h
+Evento: ¿Qué festejan las colectividades el 23 de junio?
+Categoría: Colectividades
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 30
+Mes: JUN
+Hora: 19:00 h<br>21:30 h
+Evento: 7° Show Aniversario de “Urban Dance Esquel” 
+Categoría: Danzas Urbanas
+Lugar: Auditorio Municipal
 
 Día: 5
 Mes: JUL

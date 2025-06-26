@@ -14,7 +14,7 @@ function iniciarScrollVertical() {
     { transform: 'translateY(0)' },
     { transform: `translateY(-${diferencia}px)` }
   ], {
-    duration: 60000,
+    duration: 50000,
     direction: 'alternate',
     iterations: Infinity,
     easing: 'ease-in-out'

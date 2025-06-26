@@ -18,6 +18,7 @@ fetch('galerias.txt')
       for (let i = 1; i <= cantidad; i++) {
         const img = document.createElement('img');
         img.src = `${zona}/${i}.jpg`;
+        img.loading = "lazy";
         if (i === 1) img.classList.add('active');
         contenedor.appendChild(img);
         imgList.push(img);

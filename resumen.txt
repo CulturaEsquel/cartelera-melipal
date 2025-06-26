@@ -1,17 +1,3 @@
-Día: 25
-Mes: JUN
-Hora: 21:00 h
-Evento: CÓMO NOS PREPARAMOS PARA LAS PRÓXIMAS TORMENTAS GEOMAGNÉTICAS
-Categoría: Charlas de Plaza del Cielo
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 25
-Mes: JUN
-Hora: 19:30 h
-Evento: Fotografía y Memoria
-Categoría: Taller Abierto 
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 27
 Mes: JUN
 Hora: 19:30 h

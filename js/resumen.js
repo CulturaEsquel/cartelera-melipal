@@ -24,7 +24,7 @@ fetch('resumen.txt')
             <div class="fs-7 text-muted">${eventoObj['Hora'] || ''}</div>
           </div>
           <div class="col align-self-center p-2 mt-3">
-            <div class="fw-semibold fs-7">${eventoObj['Evento'] || ''}</div>
+            <div class="fw-semibold fs-6">${eventoObj['Evento'] || ''}</div>
             <div class="text-body-secondary fs-8">${eventoObj['Lugar'] || ''}</div>
           </div>
         </div>

@@ -19,6 +19,48 @@ Evento: ¿Paraíso Mágico y Natural? | de Ayelén Mereb
 Categoría: Presentación de Libro
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 28
+Mes: JUN
+Hora: 16:00 hs
+Evento: ELIO
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 28
+Mes: JUN
+Hora: 18:30 h<br>21:30 h
+Evento: CÓMO ENTRENAR A TU DRAGÓN
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 28
+Mes: JUN
+Hora: 17:00 h
+Evento: De la Palabra al Cuerpo
+Categoría: Taller LGTBQ+
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 28
+Mes: JUN
+Hora: 19:00 h
+Evento: YO NENA, YO PRINCESA
+Categoría: Cine Debate
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 29
+Mes: JUN
+Hora: 16:00 hs
+Evento: ELIO
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 29
+Mes: JUN
+Hora: 18:30 h<br>21:30 h
+Evento: CÓMO ENTRENAR A TU DRAGÓN
+Categoría: Cine
+Lugar: Auditorio Municipal
+
 Día: 29
 Mes: JUN
 Hora: 18:00 h

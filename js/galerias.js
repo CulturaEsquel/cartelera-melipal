@@ -29,7 +29,7 @@ fetch('galerias.txt')
         imgList[current].classList.remove('active');
         current = (current + 1) % imgList.length;
         imgList[current].classList.add('active');
-      }, 5000);
+      }, 8000);
     });
   })
   .catch(error => console.error('Error al cargar manifest.txt:', error));

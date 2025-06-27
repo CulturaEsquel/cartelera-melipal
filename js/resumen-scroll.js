@@ -6,9 +6,9 @@ function iniciarScrollVertical() {
   if (!resumen || !contenido) return;
 
   const alturaContenedor = resumen.clientHeight;
-  const alturaContenido = contenido.scrollHeight;
+  const alturaContenido = contenido.scrollHeight + titulo;
 
-  const diferencia = alturaContenido - alturaContenedor - titulo;
+  const diferencia = alturaContenido - alturaContenedor;
   if (diferencia <= 0) return; // No animar si no hay desborde
 
   contenido.animate([

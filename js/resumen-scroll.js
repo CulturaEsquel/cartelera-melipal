@@ -1,6 +1,6 @@
 function iniciarScrollVertical() {
   const resumen = document.getElementById('resumen');
-  const contenido = document.getElementById('resumen-contenido');
+  const contenido = document.getElementById('alto');
   const titulo = 47;
 
   if (!resumen || !contenido) return;
@@ -24,5 +24,5 @@ function iniciarScrollVertical() {
 
 // Ejecutar después de que el contenido se haya cargado
 window.addEventListener('load', () => {
-  setTimeout(iniciarScrollVertical, 500); // espera breve por seguridad
+  setTimeout(iniciarScrollVertical, 1000); // espera breve por seguridad
 });

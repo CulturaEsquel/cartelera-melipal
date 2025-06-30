@@ -2,7 +2,7 @@ fetch('resumen.txt')
   .then(response => response.text())
   .then(data => {
     const eventos = data.trim().split(/(?:\r?\n){2,}/);
-    let html ='<div class="p-1">';
+    let html ='<div class="p-1" id="alto">';
 
     eventos.forEach(evento => {
       const lineas = evento.split('\n');

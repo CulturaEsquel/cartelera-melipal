@@ -5,7 +5,7 @@ function iniciarScrollVertical() {
 
   if (!resumen || !contenido) return;
 
-  const alturaContenedor = resumen.clientHeight + titulo;
+  const alturaContenedor = resumen.clientHeight;
   const alturaContenido = contenido.scrollHeight;
 
   const diferencia = alturaContenido - alturaContenedor;

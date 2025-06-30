@@ -5,7 +5,7 @@ function iniciarScrollVertical() {
 
   if (!resumen || !contenido) return;
 
-  const alturaContenedor = resumen.clientHeight;
+  const alturaContenedor = resumen.clientHeight + titulo;
   const alturaContenido = contenido.scrollHeight;
 
   const diferencia = alturaContenido - alturaContenedor;
@@ -13,7 +13,7 @@ function iniciarScrollVertical() {
 
   contenido.animate([
     { transform: 'translateY(0)' },
-    { transform: `translateY(-${diferencia+titulo}px)` }
+    { transform: `translateY(-${diferencia + titulo}px)` }
   ], {
     duration: 5000,
     direction: 'alternate',

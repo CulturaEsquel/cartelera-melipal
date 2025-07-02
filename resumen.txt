@@ -1,9 +1,9 @@
-Día: 30
-Mes: JUN
-Hora: 19:00 h<br>21:30 h
-Evento: 7° Show Aniversario de “Urban Dance Esquel” 
-Categoría: Danzas Urbanas
-Lugar: Auditorio Municipal
+Día: 4
+Mes: JUL
+Hora: 21:30 h
+Evento: CIRCO FREAK
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 5
 Mes: JUL
@@ -15,21 +15,35 @@ Lugar: Centro Cultural Esquel Melipal
 Día: 5
 Mes: JUL
 Hora: 17:00 h
-Evento: CANTO CLÚ | Musicalidad, voz y cuerpo 
-Categoría: Taller intensivo
+Evento: TALLER CANTO CLÚ
+Categoría: Taller de música
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 5
 Mes: JUL
+Hora: 19:00 h<br>21:00 h
+Evento: MUESTRA DE INVIERNO | Somos danza
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 5
+Mes: JUL
 Hora: 20:30 h
-Evento: RODRIGO CARAZO | Concierto
+Evento: RODRIGO CARAZO EN CONCIERTO
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 18
+Día: 6
 Mes: JUL
-Hora: 20:30 h
-Evento: FRANCISCA y los exploradores
-Categoría: Música
+Hora: 18:00 h
+Evento: NINJA BABY | Taller Cine y Filosofía
+Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: JUL
+Hora: 20:00 h
+Evento: VARIETÉ
+Categoría: Varieté
+Lugar: Auditorio Municipal
 

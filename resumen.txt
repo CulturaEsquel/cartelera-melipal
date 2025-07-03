@@ -1,5 +1,12 @@
 Día: 4
 Mes: JUL
+Hora: 21:00 h
+Evento: RECITAL DE INVIERNO | Escuela María Teresa Fernández
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 4
+Mes: JUL
 Hora: 21:30 h
 Evento: CIRCO FREAK
 Categoría: Teatro
@@ -51,7 +58,7 @@ Día: 6
 Mes: JUL
 Hora: 17:30 h
 Evento: FIN DEL ANTROPOCENO | Música y cuentos
-Categoría: Cierre de muestras
+Categoría: Cierre de muestra
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 6

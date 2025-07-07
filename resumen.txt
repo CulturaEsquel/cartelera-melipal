@@ -8,13 +8,13 @@ Lugar: Auditorio Municipal
 Día: 11
 Mes: JUL
 Hora: 17:30 h
-Evento:CHIFLADONIA
+Evento: CHIFLADONIA
 Categoría: Infantil de impro y humor
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 12
 Mes: JUL
 Hora: 17:30 h
-Evento:CHIFLADONIA
+Evento: CHIFLADONIA
 Categoría: Infantil de impro y humor
 Lugar: Centro Cultural Esquel Melipal

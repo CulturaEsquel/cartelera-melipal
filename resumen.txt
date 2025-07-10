@@ -1,20 +1,59 @@
-Día: 8
-Mes: JUL
-Hora: 17:00 h
-Evento: EL PRINCIPITO
-Categoría: Teatro para la familia
-Lugar: Auditorio Municipal
-
 Día: 11
 Mes: JUL
 Hora: 17:30 h
-Evento: CHIFLADONIA
+Evento:CHIFLADONIA
+Categoría: Infantil de impro y humor
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: JUL
+Evento:DÚO ATRAPASUEÑOS | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: María Castaña 
+
+Día: 12
+Mes: JUL
+Hora: 17:30 h
+Evento:CHIFLADONIA
 Categoría: Infantil de impro y humor
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 12
 Mes: JUL
-Hora: 17:30 h
-Evento: CHIFLADONIA
-Categoría: Infantil de impro y humor
+Hora: 20:00 h
+Evento:INAUGURACIÓN DE MUESTRAS
+Categoría: Muestras
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 12
+Mes: JUL
+Hora: 21:00 h
+Evento:LA AMISTÁ | LA CUÁTICA
+Categoría: Impro y humor
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 12
+Mes: JUL
+Hora: 21:00 h
+Evento:RESILIENCIA | BALLET PIUQUÉ
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 12
+Mes: JUL 
+Evento:GRUPO ILUSIONES | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: Franz y Pepone 
+
+Día: 13
+Mes: JUL
+Hora: 18:00 hs
+Evento:FLOW | CINE Y FILOSOFÍA
+Categoría: Ciclo de cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 13
+Mes: JUL
+Evento:BALLET REMEMBRANZAS | MÚSICA A LA CARTA
+Categoría: Danza
+Lugar: Los carreros

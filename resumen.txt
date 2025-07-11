@@ -47,7 +47,7 @@ Lugar: Franz y Pepone
 
 Día: 13
 Mes: JUL
-Hora: 18:00 hs
+Hora: 18:00 h
 Evento:FLOW | CINE Y FILOSOFÍA
 Categoría: Ciclo de cine
 Lugar: Centro Cultural Esquel Melipal
@@ -57,3 +57,17 @@ Mes: JUL
 Evento:BALLET REMEMBRANZAS | MÚSICA A LA CARTA
 Categoría: Danza
 Lugar: Los carreros
+
+Día: 16
+Mes: JUL
+Hora: 17:30 h
+Evento:EL PRINCIPITO | TEATRO PARA LA FAMILIA
+Categoría: Teatro
+Lugar: Auditorio Municipal
+
+Día: 17
+Mes: JUL
+Hora: 21:00 h
+Evento:VER LA MÚSICA VOL.3 | ARDA STUDIO
+Categoría: Set audiovisual en vivo
+Lugar: Auditorio Municipal

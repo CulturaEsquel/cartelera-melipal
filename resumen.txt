@@ -1,63 +1,3 @@
-Día: 11
-Mes: JUL
-Hora: 17:30 h
-Evento:CHIFLADONIA
-Categoría: Infantil de impro y humor
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 11
-Mes: JUL
-Evento:DÚO ATRAPASUEÑOS | MÚSICA A LA CARTA
-Categoría: Música
-Lugar: María Castaña 
-
-Día: 12
-Mes: JUL
-Hora: 17:30 h
-Evento:CHIFLADONIA
-Categoría: Infantil de impro y humor
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 12
-Mes: JUL
-Hora: 20:00 h
-Evento:INAUGURACIÓN DE MUESTRAS
-Categoría: Muestras
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 12
-Mes: JUL
-Hora: 21:00 h
-Evento:LA AMISTÁ | LA CUÁTICA
-Categoría: Impro y humor
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 12
-Mes: JUL
-Hora: 21:00 h
-Evento:RESILIENCIA | BALLET PIUQUÉ
-Categoría: Danza
-Lugar: Auditorio Municipal
-
-Día: 12
-Mes: JUL 
-Evento:GRUPO ILUSIONES | MÚSICA A LA CARTA
-Categoría: Música
-Lugar: Franz y Pepone 
-
-Día: 13
-Mes: JUL
-Hora: 18:00 h
-Evento:FLOW | CINE Y FILOSOFÍA
-Categoría: Ciclo de cine
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 13
-Mes: JUL
-Evento:BALLET REMEMBRANZAS | MÚSICA A LA CARTA
-Categoría: Danza
-Lugar: Los carreros
-
 Día: 16
 Mes: JUL
 Hora: 17:30 h
@@ -71,3 +11,29 @@ Hora: 21:00 h
 Evento:VER LA MÚSICA VOL.3 | ARDA STUDIO
 Categoría: Set audiovisual en vivo
 Lugar: Auditorio Municipal
+
+Día: 17
+Mes: JUL
+Evento: MAJESTADES | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: La Esquina
+
+Día: 18
+Mes: JUL
+Hora: 20:30 h
+Evento: FRANCISCA Y LOS EXPLORADORES 
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 18
+Mes: JUL
+Evento: NOS SIGUEN PEGANDO | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: Rider
+
+Día: 16-20
+Mes: JUL
+Hora: 17 h
+Evento: EXPO ESQUEL INVIERNO 2025
+Categoría: Espectáculos varios - Feria
+Lugar: Gimnasio Municipal

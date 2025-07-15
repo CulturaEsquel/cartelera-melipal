@@ -18,6 +18,13 @@ Evento: MAJESTADES | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: La Esquina
 
+Día: 18 
+Mes: JUL
+Hora: 17:30 h
+Evento: CHIFLADONIA | COMPAÑÍA LA CUÁTICA
+Categoría: Teatro para infancias
+Lugar: Auditorio Municipal
+
 Día: 18
 Mes: JUL
 Hora: 20:30 h
@@ -30,6 +37,20 @@ Mes: JUL
 Evento: NOS SIGUEN PEGANDO | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: Rider
+
+Día: 19 
+Mes: JUL
+Hora: 17:30 h
+Evento: CHIFLADONIA | COMPAÑÍA LA CUÁTICA
+Categoría: Teatro para infancias
+Lugar: Auditorio Municipal
+
+Día: 19 
+Mes: JUL
+Hora: 21:00 h
+Evento: LA AMISTÁ | COMPAÑÍA LA CUÁTICA
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 16-20
 Mes: JUL

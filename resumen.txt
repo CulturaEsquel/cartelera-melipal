@@ -1,31 +1,3 @@
-Día: 21
-Mes: JUL
-Hora: 18:30 h
-Evento: EL NOVIO DE MAMÁ | ATP
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 21
-Mes: JUL
-Hora: 21:00 h
-Evento: F1: LA PELÍCULA | ATP
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 22
-Mes: JUL
-Hora: 18:30 h
-Evento: EL NOVIO DE MAMÁ | ATP
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 22
-Mes: JUL
-Hora: 21:00 h
-Evento: F1: LA PELÍCULA | ATP
-Categoría: Cine
-Lugar: Cine Municipal
-
 Día: 23
 Mes: JUL
 Hora: 21:00 h
@@ -38,6 +10,13 @@ Mes: JUL
 Evento: PUENTES AMARILLOS | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: Akino
+
+Día: 25
+Mes: JUL
+Hora: 19 h
+Evento: IACOBUS GAUDET | MUESTRA FOTOGRÁFICA
+Categoría: Inauguración
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 25
 Mes: JUL

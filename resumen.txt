@@ -20,6 +20,14 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 25
 Mes: JUL
+Hora: 20 h
+Evento: TRÍPTICO 
+Categoría: Conversatorio
+Lugar: Centro Cultural Esquel Melipal
+
+
+Día: 25
+Mes: JUL
 Evento: VINTER TRÍO | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: El Cedro

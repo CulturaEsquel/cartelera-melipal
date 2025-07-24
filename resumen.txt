@@ -29,3 +29,10 @@ Mes: JUL
 Evento: GOOD FELLAS | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: Plan B
+
+Día: 30
+Mes: JUL
+Hora: 21 h
+Evento: VISITANTES DE OTRAS ESTRELLAS| COMPLEJO DEL CIELO
+Categoría: Ciclo de charlas
+Lugar: Centro Cultural Esquel Melipal

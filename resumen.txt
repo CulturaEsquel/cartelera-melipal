@@ -1,16 +1,3 @@
-Día: 23
-Mes: JUL
-Hora: 21:00 h
-Evento: DESCUBRE TU CAMINO | TALLER VOCACIONAL
-Categoría: Taller
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 24
-Mes: JUL
-Evento: PUENTES AMARILLOS | MÚSICA A LA CARTA
-Categoría: Música
-Lugar: Akino
-
 Día: 25
 Mes: JUL
 Hora: 19 h
@@ -34,9 +21,37 @@ Lugar: El Cedro
 
 Día: 26
 Mes: JUL
+Hora: 16 h <br>19 h
+Evento: ELIO 
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 26
+Mes: JUL
 Evento: GOOD FELLAS | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: Plan B
+
+Día: 27
+Mes: JUL
+Hora: 16 h 
+Evento: ELIO | FUNCIÓN DISTENDIDA
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 26
+Mes: JUL
+Hora: 19 h
+Evento: ELIO 
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 26
+Mes: JUL
+Hora: 16 h <br>19 h
+Evento: ELIO 
+Categoría: Cine
+Lugar: Cine Municipal
 
 Día: 30
 Mes: JUL

@@ -1,6 +1,37 @@
-Día: 30
+Día: 31
 Mes: JUL
+Evento: KAREM BOUDARGHAM | MÚSICA A LA CARTA
+Categoría: Danza
+Lugar: Plan B
+
+Día: 1
+Mes: AGO
 Hora: 21 h
-Evento: VISITANTES DE OTRAS ESTRELLAS| COMPLEJO DEL CIELO
-Categoría: Ciclo de charlas
+Evento: LA HERÓICA | COMPAÑÍA LA CUÁTICA
+Categoría: Teatro Impro
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 1
+Mes: AGO
+Evento: DD BLUES BAND | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: La Esquina
+
+Día: 2
+Mes: AGO
+Evento: LUZ SIN FRENO | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: Pinto Hostel
+
+Día: 3
+Mes: AGO
+Hora: 18 h
+Evento: EL VIENTO QUE ARRASA | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 3
+Mes: AGO
+Evento: PABLO ARRIETA | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: María Castaña

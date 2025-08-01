@@ -1,9 +1,3 @@
-Día: 31
-Mes: JUL
-Evento: KAREM BOUDARGHAM | MÚSICA A LA CARTA
-Categoría: Danza
-Lugar: Plan B
-
 Día: 1
 Mes: AGO
 Hora: 21 h
@@ -35,3 +29,38 @@ Mes: AGO
 Evento: PABLO ARRIETA | MÚSICA A LA CARTA
 Categoría: Música
 Lugar: María Castaña
+
+Día: 8
+Mes: AGO
+Hora: 20 h
+Evento: COMUNIDADES DEL VIENTO | DOCUMENTAL
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 9
+Mes: AGO
+Hora: 10 h
+Evento: PLANTACIÓN, PODA Y FERTILIZACIÓN 
+Categoría: Charla abierta
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 9
+Mes: AGO
+Hora: 21 h
+Evento: 6TO ENCUENTRO DE PAYADORES. MALAMBO Y CHAMAME
+Categoría: Música
+Lugar: Gimnasio Municipal
+
+Día: 10
+Mes: AGO
+Hora: 17 h
+Evento: 14° MUESTRA COLECTIVA ARTE DE CHICOS PARA CHICOS
+Categoría: Inauguración
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 10
+Mes: AGO
+Hora: 21 h
+Evento: VOCAL DEL PINAR Y ARCOS AL SUR
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal

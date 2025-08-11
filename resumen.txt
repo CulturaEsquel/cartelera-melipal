@@ -1,45 +1,3 @@
-Día: 8
-Mes: AGO
-Hora: 20 h
-Evento: COMUNIDADES DEL VIENTO | DOCUMENTAL
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 9
-Mes: AGO
-Hora: 10 h
-Evento: PLANTACIÓN, PODA Y FERTILIZACIÓN 
-Categoría: Charla abierta
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 9
-Mes: AGO
-Hora: 21 h
-Evento: 6TO ENCUENTRO DE PAYADORES. MALAMBO Y CHAMAME
-Categoría: Música
-Lugar: Gimnasio Municipal
-
-Día: 10
-Mes: AGO
-Hora: 15 h
-Evento: FERIA DE LIBROS INFANTILES A LA GORRA
-Categoría: Feria
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 10
-Mes: AGO
-Hora: 17 h
-Evento: 14° MUESTRA COLECTIVA ARTE DE CHICOS PARA CHICOS
-Categoría: Inauguración
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 10
-Mes: AGO
-Hora: 21 h
-Evento: VOCAL DEL PINAR Y ARCOS AL SUR
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 14 
 Mes: AGO
 Hora: 20 h
@@ -54,9 +12,30 @@ Evento: VOLVER AL ORIGEN | FRAN CAMINO
 Categoría: Danza 
 Lugar: Auditorio Municipal
 
+Día: 16 
+Mes: AGO
+Hora: 20 h
+Evento: CELEBRAMOS CON EL MAESTRO JORGE DE ORO
+Categoría: Música
+Lugar: Auditorio Municipal
+
 Día: 17 
 Mes: AGO
 Hora: 19 h
 Evento: URTICANTES Y LETALES | LA CICUTA
 Categoría: Teatro 
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 18
+Mes: AGO
+Hora: 20:30 h
+Evento: PROYECCIONES AUDIOVISUALES LOCALES | JUEGOS DE MONTAÑA
+Categoría: Cine 
+Lugar: Auditorio Municipal
+
+Día: 19
+Mes: AGO
+Hora: 20:30 h
+Evento: PROYECCIONES AUDIOVISUALES LOCALES | JUEGOS DE MONTAÑA
+Categoría: Cine 
+Lugar: Auditorio Municipal

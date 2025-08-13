@@ -1,16 +1,23 @@
 Día: 14 
 Mes: AGO
 Hora: 20 h
-Evento: VOLVER AL ORIGEN | FRAN CAMINO
-Categoría: Danza 
+Evento: VOLVER AL ORIGEN | Fran Camino
+Categoría: Danza
 Lugar: Auditorio Municipal
 
 Día: 15 
 Mes: AGO
 Hora: 20 h
-Evento: VOLVER AL ORIGEN | FRAN CAMINO
-Categoría: Danza 
+Evento: VOLVER AL ORIGEN | Fran Camino
+Categoría: Danza
 Lugar: Auditorio Municipal
+
+Día: 16 
+Mes: AGO
+Hora: 21 h
+Evento: "LA HEROICA" | La Cuatica 
+Categoría: Impro y humor
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 16 
 Mes: AGO
@@ -22,20 +29,41 @@ Lugar: Auditorio Municipal
 Día: 17 
 Mes: AGO
 Hora: 19 h
-Evento: URTICANTES Y LETALES | LA CICUTA
+Evento: URTICANTES Y LETALES | La Cicuta
 Categoría: Teatro 
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 18
 Mes: AGO
 Hora: 20:30 h
-Evento: PROYECCIONES AUDIOVISUALES LOCALES | JUEGOS DE MONTAÑA
+Evento: PROYECCIONES AUDIOVISUALES LOCALES | Juegos de Montaña
 Categoría: Cine 
 Lugar: Auditorio Municipal
 
 Día: 19
 Mes: AGO
 Hora: 20:30 h
-Evento: PROYECCIONES AUDIOVISUALES LOCALES | JUEGOS DE MONTAÑA
+Evento: PROYECCIONES AUDIOVISUALES LOCALES | Juegos de Montaña
 Categoría: Cine 
 Lugar: Auditorio Municipal
+
+Día: 27
+Mes: AGO
+Hora: 20:30 h
+Evento: FESTIVAL DE CINE INTERNACIONAL BANFF FEST
+Categoría: Cine de Montaña
+Lugar: Cine Municipal
+
+Día: 28
+Mes: AGO
+Hora: 20:30 h
+Evento: FESTIVAL DE CINE INTERNACIONAL BANFF FEST
+Categoría: Cine de Montaña
+Lugar: Cine Municipal
+
+Día: 30
+Mes: AGO
+Hora: 19:00 h
+Evento: FESTIVAL 19 AÑOS DE PASIÓN | Habibbi Bellydance
+Categoría: Danzas árabes
+Lugar: Centro Cultural Esquel Melipal

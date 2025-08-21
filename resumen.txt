@@ -1,16 +1,23 @@
-Día: 18
+Día: 22
 Mes: AGO
-Hora: 20:30 h
-Evento: PROYECCIONES AUDIOVISUALES LOCALES | Juegos de Montaña
-Categoría: Cine 
-Lugar: Auditorio Municipal
+Hora: 17:00 h
+Evento: ENCUENTRO DE EQUINOTERAPIA | Abierto
+Categoría: Charlas
+Lugar: Centro Cultural Esquel Melipal
 
-Día: 19
+Día: 22
 Mes: AGO
-Hora: 20:30 h
-Evento: PROYECCIONES AUDIOVISUALES LOCALES | Juegos de Montaña
-Categoría: Cine 
-Lugar: Auditorio Municipal
+Hora: 21:00 h
+Evento: PEÑA FOLCLÓRICA MUNICIPAL
+Categoría: Peña
+Lugar: Gimnasio Municipal
+
+Día: 24
+Mes: AGO
+Hora: 18:00 h
+Evento: CINE Y FILOSOFÍA | "Materialistas"
+Categoría: Cine Debate
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 27
 Mes: AGO

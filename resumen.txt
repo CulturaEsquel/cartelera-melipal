@@ -1,24 +1,3 @@
-Día: 22
-Mes: AGO
-Hora: 17:00 h
-Evento: ENCUENTRO DE EQUINOTERAPIA | Abierto
-Categoría: Charlas
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 22
-Mes: AGO
-Hora: 21:00 h
-Evento: PEÑA FOLCLÓRICA MUNICIPAL
-Categoría: Peña
-Lugar: Gimnasio Municipal
-
-Día: 24
-Mes: AGO
-Hora: 18:00 h
-Evento: CINE Y FILOSOFÍA | "Materialistas"
-Categoría: Cine Debate
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 27
 Mes: AGO
 Hora: 20:30 h
@@ -33,9 +12,17 @@ Evento: FESTIVAL DE CINE INTERNACIONAL BANFF FEST
 Categoría: Cine de Montaña
 Lugar: Cine Municipal
 
+Día: 30
+Mes: AGO
+Hora: 20:00 h
+Evento: XXVI SALON MUNICIPAL DE ARTES PLÁSTICAS
+Categoría: Inauguración
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 31
 Mes: AGO
 Hora: 19:00 h
 Evento: FESTIVAL 19 AÑOS DE PASIÓN | Habibbi Bellydance
 Categoría: Danzas árabes
 Lugar: Centro Cultural Esquel Melipal
+

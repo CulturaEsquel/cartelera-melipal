@@ -1,28 +1,41 @@
-Día: 27
-Mes: AGO
-Hora: 20:30 h
-Evento: FESTIVAL DE CINE INTERNACIONAL BANFF FEST
-Categoría: Cine de Montaña
-Lugar: Cine Municipal
+Día: 5
+Mes: SEP
+Hora: 14:00 h
+Evento: DÍA DE LA MUJER ORIGINARIA Y DÍA DE LA BANDERA MAPUCHE TEHUELCHE
+Categoría: Encuentro 
+Lugar: Centro Cultural Esquel Melipal
 
-Día: 28
-Mes: AGO
-Hora: 20:30 h
-Evento: FESTIVAL DE CINE INTERNACIONAL BANFF FEST
-Categoría: Cine de Montaña
-Lugar: Cine Municipal
+Día: 5
+Mes: SEP
+Hora: 21:30 h
+Evento: CHAMAME CON VERDULERA | SANTIAGO TORRES
+Categoría: Música 
+Lugar: Centro Cultural Esquel Melipal
 
-Día: 30
-Mes: AGO
+Día: 5
+Mes: SEP
+Hora: 18:00 h
+Evento: MUJERES INDÍGENAS | GABRIEL PALACIOS 
+Categoría: Inauguración de muestra fotográfica 
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: SEP
+Hora: 21:00 h
+Evento: JUNTARNOS | ESTIRPE
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: SEP
 Hora: 20:00 h
-Evento: XXVI SALON MUNICIPAL DE ARTES PLÁSTICAS
-Categoría: Inauguración
+Evento: LA MÚSICA ES COLOR | COLECTIVO CAMINO POR LAS ARTES 
+Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 31
-Mes: AGO
-Hora: 19:00 h
-Evento: FESTIVAL 19 AÑOS DE PASIÓN | Habibbi Bellydance
-Categoría: Danzas árabes
+Día: 6
+Mes: SEP
+Hora: 20:00 h
+Evento: ÚLTIMAS IMÁGENES DEL NAUFRAGIO | LEONARDO MEZZETTI 
+Categoría: Inauguración de muestra  
 Lugar: Centro Cultural Esquel Melipal
-

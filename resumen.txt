@@ -7,23 +7,23 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 5
 Mes: SEP
-Hora: 21:30 h
-Evento: CHAMAME CON VERDULERA | SANTIAGO TORRES
-Categoría: Música 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 5
-Mes: SEP
 Hora: 18:00 h
 Evento: MUJERES INDÍGENAS | GABRIEL PALACIOS 
 Categoría: Inauguración de muestra fotográfica 
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 6
+Día: 5
 Mes: SEP
-Hora: 21:00 h
-Evento: JUNTARNOS | ESTIRPE
-Categoría: Música
+Hora: 19:30 h
+Evento: PUM! ZZZ...CLAC! | ETRA CIRCO 
+Categoría: Espectáculo 
+Lugar: Auditorio Municipal
+
+Día: 5
+Mes: SEP
+Hora: 21:30 h
+Evento: CHAMAME CON VERDULERA | SANTIAGO TORRES
+Categoría: Música 
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 6
@@ -39,3 +39,41 @@ Hora: 20:00 h
 Evento: ÚLTIMAS IMÁGENES DEL NAUFRAGIO | LEONARDO MEZZETTI 
 Categoría: Inauguración de muestra  
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: SEP
+Hora: 20:00 h
+Evento: RAÍCES DE CHILE | CONSULADO CHILENO
+Categoría: Inauguración de muestra  
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: SEP
+Hora: 21:00 h
+Evento: JUNTARNOS | ESTIRPE
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: SEP
+Hora: 21:30 h
+Evento: PARANORÍAS | CINE CON VECINOS
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 7
+Mes: SEP
+Hora: 17:00 h
+Evento: FIESTA DE LOS CIRUELOS EN FLOR
+Categoría: Feria y espectáculos musicales
+Lugar: Avenida Ameghino
+
+Día: 7
+Mes: SEP
+Hora: 19:00 h
+Evento: GATO NEGRO, GATO BLANCO | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+
+

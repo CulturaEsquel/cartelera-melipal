@@ -1,79 +1,41 @@
-Día: 5
+Día: 13
 Mes: SEP
-Hora: 14:00 h
-Evento: DÍA DE LA MUJER ORIGINARIA Y DÍA DE LA BANDERA MAPUCHE TEHUELCHE
-Categoría: Encuentro 
+Hora: 17:30 h
+Evento: ABUELA ANN | ALICIA M. EVANS
+Categoría: Presentación de libro 
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 5
-Mes: SEP
-Hora: 18:00 h
-Evento: MUJERES INDÍGENAS | GABRIEL PALACIOS 
-Categoría: Inauguración de muestra fotográfica 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 5
-Mes: SEP
-Hora: 19:30 h
-Evento: PUM! ZZZ...CLAC! | ETRA CIRCO 
-Categoría: Espectáculo 
-Lugar: Auditorio Municipal
-
-Día: 5
-Mes: SEP
-Hora: 21:30 h
-Evento: CHAMAME CON VERDULERA | SANTIAGO TORRES
-Categoría: Música 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6
-Mes: SEP
-Hora: 20:00 h
-Evento: LA MÚSICA ES COLOR | COLECTIVO CAMINO POR LAS ARTES 
-Categoría: Inauguración de muestra
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6
-Mes: SEP
-Hora: 20:00 h
-Evento: ÚLTIMAS IMÁGENES DEL NAUFRAGIO | LEONARDO MEZZETTI 
-Categoría: Inauguración de muestra  
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6
-Mes: SEP
-Hora: 20:00 h
-Evento: RAÍCES DE CHILE | CONSULADO CHILENO
-Categoría: Inauguración de muestra  
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6
+Día: 18
 Mes: SEP
 Hora: 21:00 h
-Evento: JUNTARNOS | ESTIRPE
-Categoría: Música
+Evento: VER LA MÚSICA VOL.4 | ARDA STUDIO 
+Categoría: Set audio-visual en tiempo real 
+Lugar: Auditorio Municipal
+
+Día: 19
+Mes: SEP
+Hora: 21:00 h
+Evento: LOCA | LORENA PRONSKY
+Categoría: Presentación de libro
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 6
+Día: 25
 Mes: SEP
-Hora: 21:30 h
-Evento: PARANORÍAS | CINE CON VECINOS
-Categoría: Cine
-Lugar: Cine Municipal
+Evento: XII ENCUENTRO MOLPA 2025
+Categoría: Música 
+Lugar: Gimnasio Municipal
 
-Día: 7
+Día: 27
 Mes: SEP
-Hora: 17:00 h
-Evento: FIESTA DE LOS CIRUELOS EN FLOR
-Categoría: Feria y espectáculos musicales
-Lugar: Avenida Ameghino
+Hora: 16:00 h
+Evento: BORDADO BOTÁNICO PARA FAMILIAS 
+Categoría: Taller
+Lugar: Sede Valle Chico
 
-Día: 7
-Mes: SEP
-Hora: 19:00 h
-Evento: GATO NEGRO, GATO BLANCO | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
-
+Día: 4
+Mes: OCT
+Hora: 16:00 h
+Evento: BORDADO BOTÁNICO PARA FAMILIAS 
+Categoría: Taller
+Lugar: Sede Valle Chico
 

@@ -1,17 +1,3 @@
-Día: 15
-Mes: SEP
-Hora: 21:00 h
-Evento: HOMO ARGENTUM
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 16
-Mes: SEP
-Hora: 21:00 h
-Evento: HOMO ARGENTUM
-Categoría: Cine
-Lugar: Cine Municipal
-
 Día: 18
 Mes: SEP
 Hora: 21:00 h
@@ -24,6 +10,20 @@ Mes: SEP
 Hora: 21:00 h
 Evento: LOCA | LORENA PRONSKY
 Categoría: Presentación de libro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 20
+Mes: SEP
+Hora: 21:00 h
+Evento: BROTE PRIMAVERAL | COMPAÑÍA LA CUÁTICA
+Categoría: Impro-teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 21
+Mes: SEP
+Hora: 19:00 h
+Evento: EDDINGTON | CINE Y FILOSOFÍA
+Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 25

@@ -1,31 +1,3 @@
-Día: 18
-Mes: SEP
-Hora: 21:00 h
-Evento: VER LA MÚSICA VOL.4 | ARDA STUDIO 
-Categoría: Set audio-visual en tiempo real 
-Lugar: Auditorio Municipal
-
-Día: 19
-Mes: SEP
-Hora: 21:00 h
-Evento: LOCA | LORENA PRONSKY
-Categoría: Presentación de libro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 20
-Mes: SEP
-Hora: 21:00 h
-Evento: BROTE PRIMAVERAL | COMPAÑÍA LA CUÁTICA
-Categoría: Impro-teatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: SEP
-Hora: 19:00 h
-Evento: EDDINGTON | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 25
 Mes: SEP
 Evento: XII ENCUENTRO MOLPA 2025
@@ -45,4 +17,5 @@ Hora: 16:00 h
 Evento: BORDADO BOTÁNICO PARA FAMILIAS 
 Categoría: Taller
 Lugar: Sede Valle Chico
+
 

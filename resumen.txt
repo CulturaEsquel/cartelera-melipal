@@ -1,8 +1,30 @@
-Día: 25
+Día: 26
 Mes: SEP
+Hora: 18:00 h
+Evento: EL CONJURO 4 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 26
+Mes: SEP
+Hora: 18:30 hs
 Evento: XII ENCUENTRO MOLPA 2025
 Categoría: Música 
 Lugar: Gimnasio Municipal
+
+Día: 26
+Mes: SEP
+Hora: 21:30 h
+Evento: PARANORÍAS
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 27
+Mes: SEP
+Hora: 10:00 h
+Evento: TÉCNICAS DE PODA, FERTILIZACIÓN Y CONTROL SANITARIO 
+Categoría: Charla 
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 27
 Mes: SEP
@@ -11,11 +33,66 @@ Evento: BORDADO BOTÁNICO PARA FAMILIAS
 Categoría: Taller
 Lugar: Sede Valle Chico
 
+Día: 27
+Mes: SEP
+Hora: 18:00 h
+Evento: EL CONJURO 4 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 27
+Mes: SEP
+Hora: 19:30 hs
+Evento: XII ENCUENTRO MOLPA 2025
+Categoría: Música 
+Lugar: Gimnasio Municipal
+
+Día: 27
+Mes: SEP
+Hora: 20:00 h
+Evento: RAKKASAT
+Categoría: Show de danzas
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 27
+Mes: SEP
+Hora: 21:30 h
+Evento: PARANORÍAS
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 28
+Mes: SEP
+Hora: 21:00 h
+Evento: EL CONJURO 4 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 29
+Mes: SEP
+Hora: 21:00 h
+Evento: EL CONJURO 4 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 30
+Mes: SEP
+Hora: 18:00 h
+Evento: EL CONJURO 4 
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 1
+Mes: OCT
+Hora: 21:00 h
+Evento: ¿DE QUÉ SE TRATA LA PLAZA DEL CIELO? 
+Categoría: Charla
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 4
 Mes: OCT
 Hora: 16:00 h
 Evento: BORDADO BOTÁNICO PARA FAMILIAS 
 Categoría: Taller
 Lugar: Sede Valle Chico
-
 

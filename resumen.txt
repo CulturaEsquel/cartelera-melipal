@@ -1,17 +1,3 @@
-Día: 29
-Mes: SEP
-Hora: 21:00 h
-Evento: EL CONJURO 4 
-Categoría: Cine
-Lugar: Auditorio Municipal
-
-Día: 30
-Mes: SEP
-Hora: 18:00 h
-Evento: EL CONJURO 4 
-Categoría: Cine
-Lugar: Auditorio Municipal
-
 Día: 1
 Mes: OCT
 Hora: 21:00 h
@@ -19,10 +5,75 @@ Evento: ¿DE QUÉ SE TRATA LA PLAZA DEL CIELO?
 Categoría: Charla
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 2
+Mes: OCT
+Hora: 18:00 h
+Evento: JURASSIC WORLD: RENACE  
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 2
+Mes: OCT
+Hora: 21:30 h
+Evento: EL CONJURO 4: ÚLTIMOS RITOS  
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 3
+Mes: OCT
+Hora: 21:00 h
+Evento: GUITARRA DE ALERCE | JUAN FALÚ  
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 4
+Mes: OCT
+Hora: 10:00 h
+Evento: DE LA CLASE A LA ESCENA  
+Categoría: Seminario
+Lugar: Universidad del Chubut
+
 Día: 4
 Mes: OCT
 Hora: 16:00 h
 Evento: BORDADO BOTÁNICO PARA FAMILIAS 
 Categoría: Taller
 Lugar: Sede Valle Chico
+
+Día: 4
+Mes: OCT
+Hora: 18:00 h
+Evento: JURASSIC WORLD: RENACE  
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 4
+Mes: OCT
+Hora: 21:30 h
+Evento: OJOS ROJOS | TRIBUTO A VIEJAS LOCAS 
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 4
+Mes: OCT
+Hora: 21:30 h
+Evento: EL CONJURO 4: ÚLTIMOS RITOS  
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 5
+Mes: OCT
+Hora: 19:00 h
+Evento: EL PAÍS DE LAS MARAVILLAS | CINE Y FILOSOFÍA 
+Categoría: Cine y debate
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 5
+Mes: OCT
+Hora: 20:30 h
+Evento: DE LA CLASE A LA ESCENA  
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+
 

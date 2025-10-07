@@ -5,6 +5,20 @@ Evento: VI MUESTRA DEL GRABADO
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 11
+Mes: OCT
+Hora: 20:30 h
+Evento: VOCES DEL PUEBLO | JEREMÍAS MENDOZA 
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 11
+Mes: OCT
+Hora: 21:00 h
+Evento: TRAUMOTECA | COMPAÑÍA LA CUÁTICA 
+Categoría: Impro teatro
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 13
 Mes: OCT
 Hora: 21:00 h

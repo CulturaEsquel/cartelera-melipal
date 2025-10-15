@@ -1,17 +1,3 @@
-Día: 13
-Mes: OCT
-Hora: 21:00 h
-Evento: ES COMPLICADO
-Categoría: Teatro
-Lugar: Auditorio Municipal
-
-Día: 14
-Mes: OCT
-Hora: 21:00 h
-Evento: CONCIERTO DE PELÍCULA
-Categoría: Música
-Lugar: Auditorio Municipal
-
 Día: 16
 Mes: OCT
 Hora: 18:30 h
@@ -28,10 +14,31 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 18
 Mes: OCT
+Hora: 18:00 h
+Evento: ECLIPSE | PRÁCTICAS ARTÍSTICAS EN EL TALLER DE DIBUJO Y PINTURA
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 18
+Mes: OCT
 Hora: 20:00 h
 Evento: ECOS | BALLET AL-ÁNDALUS
 Categoría: Danza
 Lugar: Auditorio Municipal
+
+Día: 19
+Mes: OCT
+Hora: 16:00 h
+Evento: DÍA DE LOS COMERCIALES EN ESQUEL
+Categoría: Danza
+Lugar: Plaza San Martín
+
+Día: 19
+Mes: OCT
+Hora: 19:00 h
+Evento: FREMONT | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
 
 
 

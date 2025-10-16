@@ -12,6 +12,13 @@ Evento: LAS VOCES DE MI GENTE | ANIVERSARIO 25°
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 17
+Mes: OCT
+Hora: 21:00 h
+Evento: CONJUNTO ABC | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: María Castaña
+
 Día: 18
 Mes: OCT
 Hora: 18:00 h
@@ -25,6 +32,13 @@ Hora: 20:00 h
 Evento: ECOS | BALLET AL-ÁNDALUS
 Categoría: Danza
 Lugar: Auditorio Municipal
+
+Día: 18
+Mes: OCT
+Hora: 22:00 h
+Evento: NOS SIGUEN PEGANDO | MÚSICA A LA CARTA
+Categoría: Música
+Lugar: Franz y Pepone
 
 Día: 19
 Mes: OCT

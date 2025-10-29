@@ -1,16 +1,17 @@
-Día: 25
-Mes: OCT
-Hora: 17:30 h
-Evento: ECLIPSE | PRÁCTICAS ARTÍSTICAS EN EL TALLER DE DIBUJO Y PINTURA
-Categoría: Conversatorio
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 29
 Mes: OCT
 Hora: 21:00 h
 Evento: ¿CÓMO FUNCIONAN LAS ESTRELLAS? | NÉSTOR CAMINO
 Categoría: Ciclo de charlas 
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 1
+Mes: NOV
+Hora: 20:00 h
+Evento: UMBRAL | MARÍA PITI SUÁREZ
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
 
 
 

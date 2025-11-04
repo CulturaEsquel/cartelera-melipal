@@ -1,14 +1,7 @@
-Día: 1
-Mes: NOV
-Hora: 9:00 h
-Evento: LA NOCHE DE LOS MUSEOS
-Categoría: Visitas guiadas
-Lugar: Varios
-
-Día: 1
+Día: 8
 Mes: NOV
 Hora: 20:00 h
-Evento: UMBRAL | MARÍA PITI SUÁREZ
+Evento: MEMORIAS DE LA TIERRA | TIEMPO DE MOSAICOS
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
 

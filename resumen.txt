@@ -5,9 +5,25 @@ Evento: MEMORIAS DE LA TIERRA | TIEMPO DE MOSAICOS
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 8
+Mes: NOV
+Hora: 21:00 h
+Evento: ENCUENTRO DE CHARANGUERAS Y CHARANGUEROS
+Categoría: Música
+Lugar: Auditorio Municipal
 
+Día: 9
+Mes: NOV
+Hora: 19:00 h
+Evento: EMBRIAGADO DE AMOR | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
 
-
-
+Día: 12
+Mes: NOV
+Hora: 21:30 h
+Evento: VER LA MÚSICA VOL. 5
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
 
 

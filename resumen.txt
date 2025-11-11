@@ -1,24 +1,3 @@
-Día: 8
-Mes: NOV
-Hora: 20:00 h
-Evento: MEMORIAS DE LA TIERRA | TIEMPO DE MOSAICOS
-Categoría: Inauguración de muestra
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 8
-Mes: NOV
-Hora: 21:00 h
-Evento: ENCUENTRO DE CHARANGUERAS Y CHARANGUEROS
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 9
-Mes: NOV
-Hora: 19:00 h
-Evento: EMBRIAGADO DE AMOR | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 12
 Mes: NOV
 Hora: 21:30 h
@@ -26,4 +5,37 @@ Evento: VER LA MÚSICA VOL. 5
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 14
+Mes: NOV
+Hora: 9:00 h
+Evento: HACEMOS LO QUE PODEMOS CON LO QUE TENEMOS | ARMUBI
+Categoría: Charla taller
+Lugar: Centro Cultural Esquel Melipal
 
+Día: 15
+Mes: NOV
+Hora: 12:30 h
+Evento: TÉCNICAS DE FERTILIZACIÓN, RIEGO Y CONTROL DE MALEZA
+Categoría: Charla
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 16
+Mes: NOV
+Hora: 20:00 h
+Evento: LIBERANDO SUEÑOS | GRUPO NELTUMÉ Y DOS DE ABRIL
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 22
+Mes: NOV
+Hora: 22:00 h
+Evento: GRAN PEÑA MUNICIPAL (2DA. EDICIÓN)
+Categoría: Música
+Lugar: Gimnasio Municipal
+
+Día: 24
+Mes: NOV
+Hora: 20:30 h
+Evento: TODO LO QUE SE SOBRE EL AMOR | JUAN SOLÁ
+Categoría: Poesía
+Lugar: Auditorio Municipal

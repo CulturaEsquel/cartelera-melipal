@@ -1,41 +1,55 @@
-Día: 12
+Día: 28
+Mes: NOV
+Hora: 21:00 h
+Evento: CAMERATA ARCOS AL SUR
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 28
 Mes: NOV
 Hora: 21:30 h
-Evento: VER LA MÚSICA VOL. 5
+Evento: LÍNEA 18 | METELE QUE SON PASTELES!
+Categoría: Teatro
+Lugar: Auditorio Municipal
+
+Día: 29
+Mes: NOV
+Hora: 18:00 h
+Evento: HOSPITAL ARMONÍA | METELE QUE SON PASTELES!
+Categoría: Teatro
+Lugar: Auditorio Municipal
+
+Día: 29
+Mes: NOV
+Hora: 19:00 h
+Evento: 5° ENCUENTRO ENCANTADO ACÚSTICO 2025
 Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
+Lugar: Auditorio Universidad de Chubut (UDC)
 
-Día: 14
+Día: 29
 Mes: NOV
-Hora: 9:00 h
-Evento: HACEMOS LO QUE PODEMOS CON LO QUE TENEMOS | ARMUBI
-Categoría: Charla taller
-Lugar: Centro Cultural Esquel Melipal
+Hora: 21:30 h
+Evento: CARA O SECA | METELE QUE SON PASTELES!
+Categoría: Teatro
+Lugar: Auditorio Municipal
 
-Día: 15
-Mes: NOV
-Hora: 12:30 h
-Evento: TÉCNICAS DE FERTILIZACIÓN, RIEGO Y CONTROL DE MALEZA
-Categoría: Charla
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 16
+Día: 30
 Mes: NOV
 Hora: 20:00 h
-Evento: LIBERANDO SUEÑOS | GRUPO NELTUMÉ Y DOS DE ABRIL
-Categoría: Danza
-Lugar: Auditorio Municipal
-
-Día: 22
-Mes: NOV
-Hora: 22:00 h
-Evento: GRAN PEÑA MUNICIPAL (2DA. EDICIÓN)
+Evento: CAMERATA ARCOS AL SUR
 Categoría: Música
-Lugar: Gimnasio Municipal
+Lugar: Centro Cultural Esquel Melipal
 
-Día: 24
+Día: 30
 Mes: NOV
-Hora: 20:30 h
-Evento: TODO LO QUE SE SOBRE EL AMOR | JUAN SOLÁ
-Categoría: Poesía
+Hora: 20:00 h
+Evento: ¿CRECER O NO CRECER? | METELE QUE SON PASTELES!
+Categoría: Teatro
 Lugar: Auditorio Municipal
+
+Día: 30
+Mes: NOV
+Hora: 20:00 h
+Evento: CAMERATA ARCOS AL SUR
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal

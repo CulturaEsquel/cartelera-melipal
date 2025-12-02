@@ -53,3 +53,17 @@ Hora: 20:00 h
 Evento: CAMERATA ARCOS AL SUR
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 1
+Mes: DIC
+Hora: 18:00 h
+Evento: VENTANA A LOS BARRIOS | TALLERES MUNICIPALES TAMFI Y TAMFOC
+Categoría: Muestra
+Lugar: Auditorio Municipal
+
+Día: 2
+Mes: DIC
+Hora: 18:00 h
+Evento: HUELLAS Y LATIDOS | FOTOGRAFÍA
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal

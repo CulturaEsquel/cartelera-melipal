@@ -1,6 +1,62 @@
-Día: 2
+Día: 5
+Mes: DIC
+Hora: 20:30 h
+Evento: MUESTRA ANUAL DE SUNA MÚSICA
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 5
+Mes: DIC
+Hora: 21:30 h
+Evento: VOCAL DEL PINAR EN CONCIERTO
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 6
+Mes: DIC
+Hora: 13:00 h
+Evento: CIERRE DE CICLO | TALLERES PERTENECER 
+Categoría: Muestra anual
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: DIC
+Hora: 16:00 h
+Evento: MERENDARTE | merienda e intervenciones artísticas
+Categoría: Muestra anual
+Lugar: Sede Vecinal del Barrio Badén
+
+Día: 6
 Mes: DIC
 Hora: 18:00 h
-Evento: HUELLAS Y LATIDOS | FOTOGRAFÍA
+Evento: GRAN PASEO NAVIDEÑO
+Categoría: Feria
+Lugar: Plaza San Martín
+
+Día: 6
+Mes: DIC
+Hora: 16:00 h
+Evento: "Procesos creativos" 
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 6
+Mes: DIC
+Hora: 21:30 h
+Evento: CRIATURA | de Delirio Escénico 
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 8
+Mes: DIC
+Hora: 20:00 h
+Evento: CONCIERTO DE FIN DE AÑO |  Orquesta “De Biasi”
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 8
+Mes: DIC
+Hora: 21:00 h
+Evento: AL-NUR | Estudio de Danzas Árabes Isis  
+Categoría: Danzas Árabes
+Lugar: Auditorio Municipal

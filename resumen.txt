@@ -5,6 +5,32 @@ Evento: PASOS DE MATE Y CAFÉ
 Categoría: Seminarios de danza y música
 Lugar: Auditorio Municipal
 
+Día: 12
+Mes: DIC
+Hora: 18:30 h
+Evento: HILOS Y ACORDES | TALLERES TAMFI Y TAMFOC
+Categoría: Encuentro de talleres
+Lugar: Biblioteca Popular Tolkeyen
 
+Día: 13
+Mes: DIC
+Hora: 18:00 h
+Evento: PASEO NAVIDEÑO
+Categoría: Feria y espectáculos 
+Lugar: Plaza San Martín
+
+Día: 14
+Mes: DIC
+Hora: 18:00 h
+Evento: PASEO NAVIDEÑO
+Categoría: Feria y espectáculos 
+Lugar: Plaza San Martín
+
+Día: 14
+Mes: DIC
+Hora: 20:30 h
+Evento: COMÚN Y DADES | INSTITUTO DE ARTE NATIVO AYEHUEN
+Categoría: Danza
+Lugar: Centro Cultural Esquel Melipal
 
 

@@ -1,9 +1,9 @@
-Día: 11
+Día: 12
 Mes: DIC
-Hora: 18:00 h
-Evento: PASOS DE MATE Y CAFÉ
-Categoría: Seminarios de danza y música
-Lugar: Auditorio Municipal
+Hora: 15:00 h 
+Evento: ZOOTOPIA 2
+Categoría: Cine 
+Lugar: Cine Municipal
 
 Día: 12
 Mes: DIC
@@ -14,23 +14,65 @@ Lugar: Biblioteca Popular Tolkeyen
 
 Día: 13
 Mes: DIC
-Hora: 18:00 h
-Evento: PASEO NAVIDEÑO
-Categoría: Feria y espectáculos 
-Lugar: Plaza San Martín
+Hora: 15:00 h 
+Evento: ZOOTOPIA 2
+Categoría: Cine 
+Lugar: Cine Municipal
+
+Día: 13
+Mes: DIC
+Hora: 19:00 h
+Evento: ÚLTIMOS ACORDES DEL AÑO | ORQUESTA PU PICHIKECHE
+Categoría: Música
+Lugar: Gimnasio Municipal
+
+Día: 13
+Mes: DIC
+Hora: 20:00 h
+Evento: MUESTRA COLECTIVA DE ARTES PLÁSTICAS
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 13
+Mes: DIC
+Hora: 21:30 h
+Evento: QUÉ FANTÁSTICA ESTA FIESTA | LA CUÁTICA
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 14
+Mes: DIC
+Hora: 15:00 h 
+Evento: ZOOTOPIA 2
+Categoría: Cine 
+Lugar: Cine Municipal
 
 Día: 14
 Mes: DIC
 Hora: 18:00 h
-Evento: PASEO NAVIDEÑO
-Categoría: Feria y espectáculos 
-Lugar: Plaza San Martín
+Evento: PLAYONAZO | TALLERES TAMFI TAMFOC
+Categoría: Encuentro
+Lugar: Sede Vecinal Barrio Los Sauces
 
 Día: 14
 Mes: DIC
 Hora: 20:30 h
 Evento: COMÚN Y DADES | INSTITUTO DE ARTE NATIVO AYEHUEN
 Categoría: Danza
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 15
+Mes: DIC
+Hora: 16:30 h
+Evento: DISTANCIAS CONECTADAS | TALLER DE FOTOGRAFÍA UPAMI
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 17
+Mes: DIC
+Hora: 21:00 h
+Evento: SOLSTICIO Y PERIHELIO | COMPLEJO PLAZA DEL CIELO
+Categoría: Ciclo de charlas
 Lugar: Centro Cultural Esquel Melipal
 
 

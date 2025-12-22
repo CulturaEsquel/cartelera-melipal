@@ -1,31 +1,3 @@
-Día: 19
-Mes: DIC
-Hora: 21:00 h
-Evento: MUESTRA ANUAL DANZA PURA
-Categoría: Danza
-Lugar: Auditorio Municipal
-
-Día: 20
-Mes: DIC
-Hora: 21:00 h
-Evento: SHOW ÍNTIMO | GOOD FELLAS
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: DIC
-Hora: 19:00 h
-Evento: BRIGADISTAS
-Categoría: Cine documental
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: DIC
-Hora: 21:00 h
-Evento: CIERRE DE CICLO 2025 | ESTUDIO MARÍA TAGLIONI
-Categoría: Danza
-Lugar: Auditorio Municipal
-
 Día: 22
 Mes: DIC
 Hora: 18:30 h

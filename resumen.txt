@@ -1,16 +1,23 @@
-Día: 22
+Día: 26
 Mes: DIC
-Hora: 18:30 h
-Evento: SIN CORDONES 
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
+Hora: 16:30 h
+Evento: AVATAR: FUEGO Y CENIZA | 2D
+Categoría: Cine
+Lugar: Cine Municipal
 
-Día: 22
+Día: 26
 Mes: DIC
 Hora: 21:00 h
-Evento: SHOW ANUAL | URBAN DANCE ESQUEL
-Categoría: Danza
-Lugar: Gimnasio Municipal
+Evento: AVATAR: FUEGO Y CENIZA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 27
+Mes: DIC
+Hora: 16:30 h
+Evento: AVATAR: FUEGO Y CENIZA | 2D
+Categoría: Cine
+Lugar: Cine Municipal
 
 Día: 27
 Mes: DIC
@@ -19,6 +26,27 @@ Evento: HOY PERFUMAMOS TU TRONO | TALLER DE CANTO MARANATHA
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 27
+Mes: DIC
+Hora: 21:30 h
+Evento: LA NAVIDÁ | LA CUÁTICA
+Categoría: Teatro
+Lugar: Auditorio Municipal
+
+Día: 28
+Mes: DIC
+Hora: 16:30 h
+Evento: AVATAR: FUEGO Y CENIZA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 28
+Mes: DIC
+Hora: 21:00 h
+Evento: AVATAR: FUEGO Y CENIZA | 2D
+Categoría: Cine
+Lugar: Cine Municipal
+
 Día: 28
 Mes: DIC
 Hora: 17:00 h
@@ -26,7 +54,33 @@ Evento: LA BOLA DE CRISTAL
 Categoría: Narración 
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 29
+Mes: DIC
+Hora: 16:30 h
+Evento: AVATAR: FUEGO Y CENIZA | 2D
+Categoría: Cine
+Lugar: Cine Municipal
 
+Día: 29
+Mes: DIC
+Hora: 21:00 h
+Evento: AVATAR: FUEGO Y CENIZA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 30
+Mes: DIC
+Hora: 16:30 h
+Evento: AVATAR: FUEGO Y CENIZA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 30
+Mes: DIC
+Hora: 21:00 h
+Evento: AVATAR: FUEGO Y CENIZA | 2D
+Categoría: Cine
+Lugar: Cine Municipal
 
 
 

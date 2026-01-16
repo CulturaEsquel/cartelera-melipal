@@ -1,1 +1,63 @@
+Día: 16
+Mes: ENE
+Hora: 18:00 h
+Evento: BOB ESPONJA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 16
+Mes: ENE
+Hora: 20:00 h
+Evento:  ALCARRÁS | Cine y Filosofía
+Categoría: Cine debate
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 16
+Mes: ENE
+Hora: 21:00 h
+Evento: FIVE NIGHTS AT FREDDY’S 2 | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 17
+Mes: ENE
+Hora: 18:00 h
+Evento: BOB ESPONJA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 17
+Mes: ENE
+Hora: 21:00 h
+Evento: FIVE NIGHTS AT FREDDY’S 2 | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 17
+Mes: ENE
+Hora: 21:30 h
+Evento: LA CUÁTUCA | "12 Surtidas"
+Categoría: Impro teatro
+Lugar: Cine Municipal
+
+Día: 18
+Mes: ENE
+Hora: 18:00 h
+Evento: BOB ESPONJA | 3D
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 18
+Mes: ENE
+Hora: 17:00 h
+Evento: DOMINGOS DE PLAZA
+Categoría: Feria/Festival
+Lugar: Plaza San Martín
+
+Día: 18
+Mes: ENE
+Hora: 21:00 h
+Evento: FIVE NIGHTS AT FREDDY’S 2 | 3D
+Categoría: Cine
+Lugar: Cine Municipal
 

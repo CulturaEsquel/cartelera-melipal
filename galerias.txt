@@ -1,7 +1,4 @@
-eventos: 5
-talleres: 14
+eventos: 8
+talleres: 16
 muestras: 2
-
-
-
 

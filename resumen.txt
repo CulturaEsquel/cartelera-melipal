@@ -5,6 +5,13 @@ Evento: PEATONAL
 Categoría: Feria/Festival
 Lugar: 25 de Mayo (entre Rivadavia y 9 de Julio)
 
+Día: 24
+Mes: ENE
+Hora: 19:00 h
+Evento: PLANETA JUEGO | DUO UN MONTÓN
+Categoría: Teatro para infancias
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 25
 Mes: ENE
 Hora: 17:00 h

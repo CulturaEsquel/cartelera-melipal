@@ -5,6 +5,13 @@ Evento: PEATONAL
 Categoría: Feria/Festival
 Lugar: 25 de Mayo (entre Rivadavia y 9 de Julio)
 
+Día: 30
+Mes: ENE
+Hora: 20:00 h
+Evento: FUE SOLO UN ACCIDENTE | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 01
 Mes: FEB
 Hora: 17:00 h

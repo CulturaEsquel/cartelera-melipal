@@ -1,25 +1,4 @@
-Día: 7
-Mes: FEB
-Hora: 21:00 h
-Evento: ZAPPING ESQUEL | LA CUÁTICA
-Categoría: Impro teatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 10
-Mes: FEB
-Hora: 16:30 h
-Evento: LOS GUARDIANES DE LA FLOR | MANUEL PRADO
-Categoría: Títeres
-Lugar: Sede Vecinal Baden
-
-Día: 11
-Mes: FEB
-Hora: 18:00 h
-Evento: LOS GUARDIANES DE LA FLOR | MANUEL PRADO
-Categoría: Títeres
-Lugar: Sede Vecinal 28 de Junio
-
-Día: 12
+Día: 13
 Mes: FEB
 Hora: 15:00 h
 Evento: LECTURA, DIBUJO Y BORDADO | FEDERICO HEGUILLE
@@ -28,10 +7,45 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 13
 Mes: FEB
-Hora: 15:00 h
-Evento: LECTURA, DIBUJO Y BORDADO | FEDERICO HEGUILLE
-Categoría: Taller intensivo
-Lugar: Centro Cultural Esquel Melipal
+Hora: 17:00 h
+Evento: BUSQUEDA DEL TESORO | INSCRIPCIÓN
+Categoría: Para toda la comunidad
+Lugar: Gimnasio Municipal
+
+Día: 13
+Mes: FEB
+Hora: 18:00 h
+Evento: EXPO | 120º Aniversario Esquel
+Categoría: Expo Feria
+Lugar: Gimnasio Municipal
+
+Día: 14
+Mes: FEB
+Hora: 18:00 h
+Evento: EXPO | 120º Aniversario Esquel
+Categoría: Expo Feria
+Lugar: Gimnasio Municipal
+
+Día: 15
+Mes: FEB
+Hora: 18:00 h
+Evento: EXPO | 120º Aniversario Esquel
+Categoría: Expo Feria
+Lugar: Gimnasio Municipal
+
+Día: 16
+Mes: FEB
+Hora: 18:00 h
+Evento: EXPO | 120º Aniversario Esquel
+Categoría: Expo Feria
+Lugar: Gimnasio Municipal
+
+Día: 17
+Mes: FEB
+Hora: 18:00 h
+Evento: EXPO | 120º Aniversario Esquel
+Categoría: Expo Feria
+Lugar: Gimnasio Municipal
 
 Día: 18
 Mes: FEB
@@ -39,4 +53,3 @@ Hora: 21:00 h
 Evento: ¿CÓMO ERA EL CIELO CUANDO SE FUNDÓ ESQUEL? | NÉSTOR CAMINO
 Categoría: Charla 
 Lugar: Centro Cultural Esquel Melipal
-

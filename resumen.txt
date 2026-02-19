@@ -1,55 +1,41 @@
-Día: 13
+Día: 20
 Mes: FEB
-Hora: 15:00 h
-Evento: LECTURA, DIBUJO Y BORDADO | FEDERICO HEGUILLE
-Categoría: Taller intensivo
-Lugar: Centro Cultural Esquel Melipal
+Hora: 18:00 h
+Evento: NOCHE DE LAS LIBRERÍAS
+Categoría: Actividad literaria
+Lugar: 25 de Mayo (entre 9 de Julio y Rivadavia)
 
-Día: 13
+Día: 21
+Mes: FEB
+Hora: 10:00 h
+Evento: CURANTU
+Categoría: Encuentro espectáculo
+Lugar: Comunidad Nahuelpan
+
+Día: 21
 Mes: FEB
 Hora: 17:00 h
-Evento: BUSQUEDA DEL TESORO | INSCRIPCIÓN
-Categoría: Para toda la comunidad
-Lugar: Gimnasio Municipal
+Evento: FERIA DE LAS COLECTIVIDADES
+Categoría: Feria
+Lugar: Asociación Sirio Libanesa
 
-Día: 13
-Mes: FEB
-Hora: 18:00 h
-Evento: EXPO | 120º Aniversario Esquel
-Categoría: Expo Feria
-Lugar: Gimnasio Municipal
-
-Día: 14
-Mes: FEB
-Hora: 18:00 h
-Evento: EXPO | 120º Aniversario Esquel
-Categoría: Expo Feria
-Lugar: Gimnasio Municipal
-
-Día: 15
-Mes: FEB
-Hora: 18:00 h
-Evento: EXPO | 120º Aniversario Esquel
-Categoría: Expo Feria
-Lugar: Gimnasio Municipal
-
-Día: 16
-Mes: FEB
-Hora: 18:00 h
-Evento: EXPO | 120º Aniversario Esquel
-Categoría: Expo Feria
-Lugar: Gimnasio Municipal
-
-Día: 17
-Mes: FEB
-Hora: 18:00 h
-Evento: EXPO | 120º Aniversario Esquel
-Categoría: Expo Feria
-Lugar: Gimnasio Municipal
-
-Día: 18
+Día: 21
 Mes: FEB
 Hora: 21:00 h
-Evento: ¿CÓMO ERA EL CIELO CUANDO SE FUNDÓ ESQUEL? | NÉSTOR CAMINO
-Categoría: Charla 
+Evento: ARMÁNDOTE | LA CUÁTICA
+Categoría: Impro teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 21
+Mes: FEB
+Hora: 21:00 h
+Evento: GODOY
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 22
+Mes: FEB
+Hora: 19:00 h
+Evento: NO HAY OTRA OPCIÓN | CINE Y FILOSOFÍA
+Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal

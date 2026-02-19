@@ -29,7 +29,7 @@ Lugar: Centro Cultural Esquel Melipal
 Día: 21
 Mes: FEB
 Hora: 21:00 h
-Evento: GODOY
+Evento: MARIANO GODOY
 Categoría: Música
 Lugar: Auditorio Municipal
 
@@ -39,3 +39,17 @@ Hora: 19:00 h
 Evento: NO HAY OTRA OPCIÓN | CINE Y FILOSOFÍA
 Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 23
+Mes: FEB
+Hora: 19:00 h
+Evento: 120º ANIVERSARIO DE ESQUEL 2026
+Categoría: Festival con música en vivo
+Lugar: Estadio Municipal
+
+Día: 24
+Mes: FEB
+Hora: 19:00 h
+Evento: 120º ANIVERSARIO DE ESQUEL 2026
+Categoría: Festival con música en vivo
+Lugar: Estadio Municipal

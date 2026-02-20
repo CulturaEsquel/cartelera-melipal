@@ -14,13 +14,6 @@ Lugar: Comunidad Nahuelpan
 
 Día: 21
 Mes: FEB
-Hora: 17:00 h
-Evento: FERIA DE LAS COLECTIVIDADES
-Categoría: Feria
-Lugar: Asociación Sirio Libanesa
-
-Día: 21
-Mes: FEB
 Hora: 21:00 h
 Evento: ARMÁNDOTE | LA CUÁTICA
 Categoría: Impro teatro

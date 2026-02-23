@@ -1,38 +1,3 @@
-Día: 20
-Mes: FEB
-Hora: 18:00 h
-Evento: NOCHE DE LAS LIBRERÍAS
-Categoría: Actividad literaria
-Lugar: 25 de Mayo (entre 9 de Julio y Rivadavia)
-
-Día: 21
-Mes: FEB
-Hora: 10:00 h
-Evento: CURANTU
-Categoría: Encuentro espectáculo
-Lugar: Comunidad Nahuelpan
-
-Día: 21
-Mes: FEB
-Hora: 21:00 h
-Evento: ARMÁNDOTE | LA CUÁTICA
-Categoría: Impro teatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: FEB
-Hora: 21:00 h
-Evento: MARIANO GODOY
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 22
-Mes: FEB
-Hora: 19:00 h
-Evento: NO HAY OTRA OPCIÓN | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 23
 Mes: FEB
 Hora: 19:00 h

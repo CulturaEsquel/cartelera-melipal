@@ -1,13 +1,7 @@
-Día: 23
-Mes: FEB
-Hora: 19:00 h
-Evento: 120º ANIVERSARIO DE ESQUEL 2026
-Categoría: Festival con música en vivo
-Lugar: Estadio Municipal
+Día: -
+Mes: -
+Hora: 00:00 h
+Evento: -
+Categoría: -
+Lugar: -
 
-Día: 24
-Mes: FEB
-Hora: 19:00 h
-Evento: 120º ANIVERSARIO DE ESQUEL 2026
-Categoría: Festival con música en vivo
-Lugar: Estadio Municipal

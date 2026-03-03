@@ -1,7 +1,13 @@
-Día: -
-Mes: -
-Hora: 00:00 h
-Evento: -
-Categoría: -
-Lugar: -
+Día: 6 
+Mes: MARZO
+Hora: 20:00 h
+Evento: LA ZORRA Y LA PAMPA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
 
+Día: 8 
+Mes: MARZO
+Hora: 19:00 h
+Evento: CINCO LOBITOS | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal

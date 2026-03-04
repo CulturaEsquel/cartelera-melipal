@@ -1,13 +1,41 @@
-Día: 6 
+Día: 6
 Mes: MARZO
 Hora: 20:00 h
 Evento: LA ZORRA Y LA PAMPA
 Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 8 
+Día: 7
+Mes: MARZO
+Hora: 21:00 h
+Evento: LA VIDA MISMA | La Cuática
+Categoría: Teatro de Improvisación
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 7
+Mes: MARZO
+Hora: 20:00 h
+Evento: 8M | Muestra colectiva
+Categoría: Inauguracón
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 8
 Mes: MARZO
 Hora: 19:00 h
 Evento: CINCO LOBITOS | CINE Y FILOSOFÍA
 Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 14
+Mes: MARZO
+Hora: 15:00 a<br>20:00 h
+Evento: 1º FERIA CULTURAL NUESTROS SABERES
+Categoría: Divulgación Cultural
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 20
+Mes: MARZO
+Hora: 20:30 h
+Evento: GLISSÉ EN ESQUEl | Dúo Glissé
+Categoría: Música
 Lugar: Centro Cultural Esquel Melipal

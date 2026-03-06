@@ -7,9 +7,9 @@ Lugar: Centro Cultural Esquel Melipal
 
 Día: 7
 Mes: MARZO
-Hora: 21:00 h
-Evento: LA VIDA MISMA | La Cuática
-Categoría: Teatro de Improvisación
+Hora: 17:00 h
+Evento: EXPOTAKU ESQUEL 3ERA EDICIÓN
+Categoría: Espectáculo - Taller - Feria
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 7
@@ -19,11 +19,25 @@ Evento: 8M | Muestra colectiva
 Categoría: Inauguracón
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 7
+Mes: MARZO
+Hora: 21:00 h
+Evento: LA VIDA MISMA | La Cuática
+Categoría: Teatro de Improvisación
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 8
 Mes: MARZO
 Hora: 19:00 h
 Evento: CINCO LOBITOS | CINE Y FILOSOFÍA
 Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 13
+Mes: MARZO
+Hora: 21:00 h
+Evento: LEILA CHERRO Y MERLINA ILUNADAIN | 8M
+Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 14
@@ -36,6 +50,20 @@ Lugar: Centro Cultural Esquel Melipal
 Día: 20
 Mes: MARZO
 Hora: 20:30 h
-Evento: GLISSÉ EN ESQUEl | Dúo Glissé
+Evento: GLISSÉ EN ESQUEL | Dúo Glissé
 Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 21
+Mes: MARZO
+Hora: 21:00 h
+Evento: AL URUS | 8M
+Categoría: Danza
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 29
+Mes: MARZO
+Hora: 20:00 h
+Evento: CUIDADOS INVISIBILIZADOS | 8M
+Categoría: Performance - Taller
 Lugar: Centro Cultural Esquel Melipal

@@ -26,6 +26,13 @@ Evento: AL URUS | 8M
 Categoría: Danza
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 22
+Mes: MARZO
+Hora: 19:00 h
+Evento: CASI HERMANAS
+Categoría: Musical
+Lugar: Auditorio Municipal
+
 Día: 26
 Mes: MARZO
 Hora: 19:30 h

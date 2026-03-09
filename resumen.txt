@@ -1,38 +1,3 @@
-Día: 6
-Mes: MARZO
-Hora: 20:00 h
-Evento: LA ZORRA Y LA PAMPA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 7
-Mes: MARZO
-Hora: 17:00 h
-Evento: EXPOTAKU ESQUEL 3ERA EDICIÓN
-Categoría: Espectáculo - Taller - Feria
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 7
-Mes: MARZO
-Hora: 20:00 h
-Evento: 8M | Muestra colectiva
-Categoría: Inauguracón
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 7
-Mes: MARZO
-Hora: 21:00 h
-Evento: LA VIDA MISMA | La Cuática
-Categoría: Teatro de Improvisación
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 8
-Mes: MARZO
-Hora: 19:00 h
-Evento: CINCO LOBITOS | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 13
 Mes: MARZO
 Hora: 21:00 h
@@ -60,6 +25,13 @@ Hora: 21:00 h
 Evento: AL URUS | 8M
 Categoría: Danza
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 26
+Mes: MARZO
+Hora: 19:30 h
+Evento: LAS GUERRERAS DORADAS DEL K-POP
+Categoría: Música
+Lugar: Auditorio Municipal
 
 Día: 29
 Mes: MARZO

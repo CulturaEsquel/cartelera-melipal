@@ -1,31 +1,3 @@
-Día: 13
-Mes: MARZO
-Hora: 20:00 h
-Evento: DIEGO RODOLFO VIEGAS
-Categoría: Charla-Encuentro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 13
-Mes: MARZO
-Hora: 21:00 h
-Evento: LEILA CHERRO Y MERLINA ILUNADAIN | 8M
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 14
-Mes: MARZO
-Hora: 15:00 a<br>20:00 h
-Evento: 1º FERIA CULTURAL NUESTROS SABERES
-Categoría: Divulgación Cultural
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 15
-Mes: MARZO
-Hora: 17:00 h
-Evento: CINDERELLA
-Categoría: Cine ballet
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 20
 Mes: MARZO
 Hora: 20:30 h

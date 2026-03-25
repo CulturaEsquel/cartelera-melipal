@@ -1,30 +1,9 @@
-Día: 20
-Mes: MARZO
-Hora: 20:30 h
-Evento: GLISSÉ EN ESQUEL | Dúo Glissé
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
+Día: 25
 Mes: MARZO
 Hora: 21:00 h
-Evento: AL URUS | 8M
-Categoría: Danza
+Evento: CICLO DE CHARLAS DEL COMPLEJO PLAZA DEL CIELO | NÉSTOR CAMINO
+Categoría: Charla
 Lugar: Centro Cultural Esquel Melipal
-
-Día: 21
-Mes: MARZO
-Hora: 21:00 h
-Evento: ABRA PAMPA
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 22
-Mes: MARZO
-Hora: 19:00 h
-Evento: CASI HERMANAS
-Categoría: Musical
-Lugar: Auditorio Municipal
 
 Día: 26
 Mes: MARZO
@@ -33,9 +12,29 @@ Evento: LAS GUERRERAS DORADAS DEL K-POP
 Categoría: Música
 Lugar: Auditorio Municipal
 
+Día: 28
+Mes: MARZO
+Hora: 21:00 h
+Evento: CRIATURA | DELIRIO ESCÉNICO
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 29
+Mes: MARZO
+Hora: 18:00 h
+Evento: MARICHI TUKULPAN - MEMORIA IMPLACABLE
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 29
 Mes: MARZO
 Hora: 20:00 h
 Evento: CUIDADOS INVISIBILIZADOS | 8M
 Categoría: Performance - Taller
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 19
+Mes: ABRIL
+Evento: UNA NOCHE ENTRE AMIGOS | PEDRO AZNAR
+Categoría: Música 
+Lugar: Auditorio Municipal

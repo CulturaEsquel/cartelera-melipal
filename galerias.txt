@@ -1,5 +1,6 @@
-eventos: 11
-talleres: 7
-muestras: 3
+eventos: 6
+talleres: 8
+muestras: 2
+
 
 

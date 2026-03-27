@@ -1,16 +1,16 @@
-Día: 25
+Día: 27
 Mes: MARZO
-Hora: 21:00 h
-Evento: CICLO DE CHARLAS DEL COMPLEJO PLAZA DEL CIELO | NÉSTOR CAMINO
-Categoría: Charla
+Hora: 20:00 h
+Evento: ARGENTINA 1985 | CINE DEBATE
+Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 26
+Día: 28
 Mes: MARZO
-Hora: 19:30 h
-Evento: LAS GUERRERAS DORADAS DEL K-POP
-Categoría: Música
-Lugar: Auditorio Municipal
+Hora: 18:00 h
+Evento: CONVERSATORIO SOBRE ARTESANÍAS
+Categoría: Conversatorio
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 28
 Mes: MARZO
@@ -32,6 +32,14 @@ Hora: 20:00 h
 Evento: CUIDADOS INVISIBILIZADOS | 8M
 Categoría: Performance - Taller
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 1
+Mes: ABRIL
+Hora: 21:00 h
+Evento: VIGILIA DÍA DEL VETERANO Y DE LOS CAÍDOS EN LA GUERRA DE MALVINAS
+Categoría: Homenaje
+Lugar: Gimnasio Municipal
+
 
 Día: 19
 Mes: ABRIL

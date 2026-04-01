@@ -12,6 +12,19 @@ Evento: BUGONIA | CINE Y FILOSOFÍA
 Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 6
+Mes: ABRIL
+Hora: 20:00 h
+Evento: MALVINAS | FOTOGRAFÍAS Y OBJETOS
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 17 Y 18
+Mes: ABRIL
+Hora: 9:00 h
+Evento: II ENCUENTRO PROVINCIAL - V ENCUENTRO REGIONAL DE HILANDERAS
+Categoría: Encuentro - Feria
+Lugar: Gimnasio Municipal
 
 Día: 19
 Mes: ABRIL

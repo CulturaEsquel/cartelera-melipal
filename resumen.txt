@@ -1,20 +1,5 @@
-Día: 1
-Mes: ABRIL
-Hora: 21:00 h
-Evento: VIGILIA DÍA DEL VETERANO Y DE LOS CAÍDOS EN LA GUERRA DE MALVINAS
-Categoría: Homenaje
-Lugar: Gimnasio Municipal
-
-Día: 5
-Mes: ABRIL
-Hora: 19:00 h
-Evento: BUGONIA | CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 6
 Mes: ABRIL
-Hora: 20:00 h
 Evento: MALVINAS | FOTOGRAFÍAS Y OBJETOS
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal

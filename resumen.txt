@@ -1,9 +1,72 @@
-Día: 6
+Día: 10
+Mes: ABRIL
+Hora: 17:00 h
+Evento: NEANDERTALES, ARQUEOLOGÍA Y EVOLUCIÓN HUMANA
+Categoría: Charla 
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: ABRIL
+Hora: 10:00 h
+Evento: TÉCNICAS DE PODA Y FERTILIZACIÓN | ROSSANO TOMASINI
+Categoría: Charla 
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: ABRIL
+Hora: 18:00 h
+Evento: INTRODUCCIÓN AL LIBRO DE ARTISTA | CAMINO POR LAS ARTES
+Categoría: Taller
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
 Mes: ABRIL
 Hora: 20:00 h
-Evento: MALVINAS | FOTOGRAFÍAS Y OBJETOS
+Evento: TERRITORIOS | CAMINO POR LAS ARTES
 Categoría: Inauguración de muestra
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: ABRIL
+Hora: 20:00 h
+Evento: CAMPO DE LAVANDAS | CAMINO POR LAS ARTES
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: ABRIL
+Hora: 21:00 h
+Evento: IMPRO DE OTOÑO | LA CUÁTICA
+Categoría: Improteatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 11
+Mes: ABRIL
+Hora: 21:00 h
+Evento: LA VARIETÉ | ETRA CIRCO
+Categoría: Circo - Música
+Lugar: Centro de encuentro - Auditorio UDC
+
+Día: 12
+Mes: ABRIL
+Hora: 21:00 h
+Evento: CRIATURA | DELIRIO ESCÉNICO
+Categoría: Teatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 14
+Mes: ABRIL
+Hora: 20:00 h
+Evento: ENTRAMANDO LA MEMORIA | DIANA TRECAÑIR
+Categoría: Inauguración de muestra
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 15
+Mes: ABRIL
+Hora: 21:00 h
+Evento: VER LA MÚSICA | ARDA STUDIO
+Categoría: Música
+Lugar: Auditorio Municipal
 
 Día: 17 Y 18
 Mes: ABRIL

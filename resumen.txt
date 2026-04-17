@@ -1,17 +1,3 @@
-Día: 14
-Mes: ABRIL
-Hora: 20:00 h
-Evento: ENTRAMANDO LA MEMORIA | DIANA TRECAÑIR
-Categoría: Inauguración de muestra
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 15
-Mes: ABRIL
-Hora: 21:00 h
-Evento: VER LA MÚSICA | ARDA STUDIO
-Categoría: Música
-Lugar: Auditorio Municipal
-
 Día: 17 Y 18
 Mes: ABRIL
 Hora: 9:00 h
@@ -26,11 +12,25 @@ Evento: ECOS DE LA QUEBRADA AL SUR
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 18
+Mes: ABRIL
+Hora: 14:00 h
+Evento: ENCUENTRO SONORO
+Categoría: Música 
+Lugar: Auditorio Municipal
+
 Día: 19
 Mes: ABRIL
 Evento: UNA NOCHE ENTRE AMIGOS | PEDRO AZNAR
 Categoría: Música 
 Lugar: Auditorio Municipal
+
+Día: 19
+Mes: ABRIL
+Hora: 19:00 h
+Evento: HAMNET | CICLO CINE Y FILOSOFÍA
+Categoría: Cine 
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 25
 Mes: ABRIL

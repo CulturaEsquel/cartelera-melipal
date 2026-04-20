@@ -1,35 +1,8 @@
-Día: 17 Y 18
+Día: 24
 Mes: ABRIL
-Hora: 9:00 h
-Evento: II ENCUENTRO PROVINCIAL - V ENCUENTRO REGIONAL DE HILANDERAS
-Categoría: Encuentro - Feria
-Lugar: Gimnasio Municipal
-
-Día: 17
-Mes: ABRIL
-Hora: 21:30 h
-Evento: ECOS DE LA QUEBRADA AL SUR 
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 18
-Mes: ABRIL
-Hora: 14:00 h
-Evento: ENCUENTRO SONORO
+Hora: 21:00 h
+Evento: ERNANI
 Categoría: Música 
-Lugar: Auditorio Municipal
-
-Día: 19
-Mes: ABRIL
-Evento: UNA NOCHE ENTRE AMIGOS | PEDRO AZNAR
-Categoría: Música 
-Lugar: Auditorio Municipal
-
-Día: 19
-Mes: ABRIL
-Hora: 19:00 h
-Evento: HAMNET | CICLO CINE Y FILOSOFÍA
-Categoría: Cine 
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 25

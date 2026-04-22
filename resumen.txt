@@ -1,13 +1,55 @@
 Día: 24
 Mes: ABRIL
+Hora: 11:00 h
+Evento: Muestra | ANTONIO MODESTO INACAYAL
+Categoría: Inauguración
+Lugar: Mueso de Culturas Originarias Patagónicas
+
+Día: 24
+Mes: ABRIL
 Hora: 21:00 h
 Evento: ERNANI
 Categoría: Música 
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 24
+Mes: ABRIL
+Hora: 21:00 h
+Evento: UN MUSICAL EN EL CAMINO
+Categoría: Teatro Musical
+Lugar: Auditorio Municipal
 
 Día: 25
 Mes: ABRIL
 Hora: 21:30 h
 Evento: ECOS DE LA QUEBRADA AL SUR 
 Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 26
+Mes: ABRIL
+Hora: 17:00 h
+Evento: EL CASCANUECES 
+Categoría: Cine Ballet
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 26
+Mes: ABRIL
+Hora: 20:00 h
+Evento: UN MUSICAL EN EL CAMINO
+Categoría: Teatro Musical
+Lugar: Auditorio Municipal
+
+Día: 26
+Mes: ABRIL
+Hora: 20:00 h
+Evento: IMPRO DE OTOÑO
+Categoría: Teatro de improvisación
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 2
+Mes: MAYO
+Hora: 18:00 h
+Evento: MOISÉS
+Categoría: Cine + Música
 Lugar: Auditorio Municipal

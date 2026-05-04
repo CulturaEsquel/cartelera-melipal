@@ -1,6 +1,6 @@
-Día: 2
+Día: 7,8 y 9
 Mes: MAYO
-Hora: 18:00 h
-Evento: MOISÉS
-Categoría: Cine + Música
-Lugar: Auditorio Municipal
+Hora: --:-- h
+Evento: 3° FERIA MUNICIPAL DEL LIBRO
+Categoría: Feria
+Lugar: Centro Cultural Esquel Melipal

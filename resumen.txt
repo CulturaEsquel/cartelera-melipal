@@ -40,19 +40,22 @@ Evento: SEMINARIO DE ENCORDADO
 Categoría: Taller
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 22 MAYO
+Día: 22 
+Mes: MAYO
 Hora: 20:30 h
 Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música
 Lugar: Auditorio Municipal
 
-Día: 23 MAYO
+Día:
+Mes: 23 MAYO
 Hora: 20:30 h
 Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música
 Lugar: Auditorio Municipal
 
-Día: 22 MAYO
+Día: 23
+Mes: MAYO
 Hora: 21:00 h
 Evento: CRIATURA | de Delirio Escénico
 Categoría: Teatro

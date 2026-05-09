@@ -47,8 +47,8 @@ Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música
 Lugar: Auditorio Municipal
 
-Día:
-Mes: 23 MAYO
+Día: 23
+Mes: MAYO
 Hora: 20:30 h
 Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música

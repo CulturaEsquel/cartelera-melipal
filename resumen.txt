@@ -1,61 +1,23 @@
-Día: 7
+Día: 16
 Mes: MAYO
-Hora: 10 a 21 h
-Evento: 3° FERIA MUNICIPAL DEL LIBRO
-Categoría: Feria
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 8
-Mes: MAYO
-Hora: 10 a 21 h
-Evento: 3° FERIA MUNICIPAL DEL LIBRO
-Categoría: Feria
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 9
-Mes: MAYO
-Hora: 10 a 21 h
-Evento: 3° FERIA MUNICIPAL DEL LIBRO
-Categoría: Feria
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 9
-Mes: MAYO
-Hora: 20:30 h
-Evento: CERTEZAS | 38º Aniversario de Ayehuen
-Categoría: Danzas
-Lugar: Auditorio Municipal
-
-Día: 9
-Mes: MAYO
-Hora: 22:00 h
+Hora: 21:00 h
 Evento: NOCHE DE IMPRO | La Cuatica
 Categoría: Teatro impro
 Lugar: Centro Cultural Esquel Melipal
 
-Día: 10
-Mes: MAYO
-Hora: 14:00 h
-Evento: SEMINARIO DE ENCORDADO
-Categoría: Taller
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 22 
-Mes: MAYO
+Día: 22 MAYO
 Hora: 20:30 h
 Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música
 Lugar: Auditorio Municipal
 
-Día: 23
-Mes: MAYO
+Día: 23 MAYO
 Hora: 20:30 h
 Evento: ESQUEL BLUES FESTIVAL 2026
 Categoría: Música
 Lugar: Auditorio Municipal
 
-Día: 23
-Mes: MAYO
+Día: 22 MAYO
 Hora: 21:00 h
 Evento: CRIATURA | de Delirio Escénico
 Categoría: Teatro

@@ -1,33 +1,3 @@
-Día: 22 MAYO
-Hora: 18:00 h
-Evento: INTRODUCCIÓN A LA ANTROPOLOGÍA DE LAS PERSONAS Y LAS COSAS
-Categoría: Charla
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 22 MAYO
-Hora: 20:30 h
-Evento: ESQUEL BLUES FESTIVAL 2026
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 23 MAYO
-Hora: 20:30 h
-Evento: ESQUEL BLUES FESTIVAL 2026
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 23 MAYO
-Hora: 21:00 h
-Evento: CRIATURA | DELIRIO ESCÉNICO
-Categoría: Teatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 24 MAYO
-Hora: 17:00 h
-Evento: EL LAGO DE LOS CISNES | CICLO DE CINE BALLET
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
 Día: 27 MAYO
 Hora: 21:00 h
 Evento: ASTROLOGÍA Y ASTRONOMÍA | COMPLEJO PLAZA DEL CIELO
@@ -39,4 +9,10 @@ Hora: 21:30 h
 Evento: LEONARDO MIRANDA EN CONCIERTO
 Categoría: Música
 Lugar: Auditorio Municipal
+
+Día: 30 MAYO
+Hora: 21:30 h
+Evento: MICELIO & FRIENDS
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
 

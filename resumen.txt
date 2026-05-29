@@ -1,18 +1,17 @@
-Día: 27 MAYO
-Hora: 21:00 h
-Evento: ASTROLOGÍA Y ASTRONOMÍA | COMPLEJO PLAZA DEL CIELO
-Categoría: Charla 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 28 MAYO
-Hora: 21:30 h
-Evento: LEONARDO MIRANDA EN CONCIERTO
-Categoría: Música
-Lugar: Auditorio Municipal
-
 Día: 30 MAYO
 Hora: 21:30 h
 Evento: MICELIO & FRIENDS
 Categoría: Música
 Lugar: Centro Cultural Esquel Melipal
 
+Día: 31 MAYO
+Hora: 15:00 h
+Evento: ENCUENTRO SONORO
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 31 MAYO
+Hora: 18:00 h
+Evento: COMPARTIMENTO N° 6 | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal

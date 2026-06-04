@@ -1,11 +1,35 @@
 Día: 6 JUN
+Hora: 9:00 h
+Evento: SELECTIVO CAMPEONATO NACIONAL DE MALAMBO FEMENINO
+Categoría: Danza
+Lugar: Auditorio Centro de Encuentro
+
+Día: 6 JUN
 Hora: 20:00 h
 Evento: INAUGURACIÓN DE MUESTRAS 
 Categoría: Artes plásticas
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 7 JUN
+Hora: 19:00 h
+Evento: DANZA ENCUENTRO | INSTITUTO INTEGRAL DE ARTE
+Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 7 JUN
+Hora: 19:30 h
+Evento: NOCHE DE IMPRO | LA CUÁTICA
+Categoría: Improteatro
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 12 JUN
 Hora: 21:00 h
 Evento: MATEO ECHAVEZ BELLYDANCER
 Categoría: Danza
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 14 JUN
+Hora: 15:00 h
+Evento: ESPACIO CIRCULAR DE LIBROS
+Categoría: Feria de libros
 Lugar: Centro Cultural Esquel Melipal

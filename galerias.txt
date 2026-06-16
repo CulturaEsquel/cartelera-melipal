@@ -1,4 +1,4 @@
-eventos: 11
+eventos: 4
 talleres: 24
 muestras: 4
 

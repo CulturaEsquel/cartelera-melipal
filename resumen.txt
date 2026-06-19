@@ -1,5 +1,29 @@
+Día: 20 JUN
+Hora: 15:00 h
+Evento: DÍA MUNDIAL DEL YOGA
+Categoría: Encuentro de yoga
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 23 JUN
+Hora: 21:00 h
+Evento: RECITAL DE INVIERNO | ESCUELA MARÍA TERESA FERNÁNDEZ M.
+Categoría: Danza
+Lugar: Auditorio Municipal
+
 Día: 26 JUN
 Hora: 18:00 h
 Evento: LA MUJER MIGRANTE Y LAS EMOCIONES | LAPAAH
 Categoría: Charla 
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 27 JUN
+Hora: 16:30 h
+Evento: ENCUENTRO AWEN
+Categoría: Muestra artística y musical
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 15 JUL
+Hora: 21:00 h
+Evento: FEDE CYRULNIK 
+Categoría: Stand up comedy show
+Lugar: Auditorio Municipal

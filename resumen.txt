@@ -11,8 +11,15 @@ Categoría: Cine
 Lugar: Cine Municipal
 
 Día: 10 JUL
+Hora: 16:00 h
 Evento: ESPACIO CULTURAL PARA INFANCIAS 
 Categoría: Varios infantil
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 12 JUL
+Hora: 18:00 h
+Evento: TRES KILÓMETROS AL FIN DEL MUNDO | CINE Y FILOSOFÍA
+Categoría: Cine
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 15 JUL

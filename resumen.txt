@@ -1,15 +1,3 @@
-Día: 6 JUL
-Hora: 18:00 h
-Evento: HOPPERS
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 6 JUL
-Hora: 21:30 h
-Evento: MANDALORIAN Y GROGU
-Categoría: Cine
-Lugar: Cine Municipal
-
 Día: 10 JUL
 Hora: 16:00 h
 Evento: ESPACIO CULTURAL PARA INFANCIAS 

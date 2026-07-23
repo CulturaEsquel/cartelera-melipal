@@ -1,134 +1,86 @@
-Día: 16 JUL
-Hora: 17:00 h
-Evento: EXPO ESQUEL INVIERNO 2026
-Categoría: Feria
-Lugar: Gimnasio Municipal
-
-Día: 16 JUL
-Hora: 18:00 h
-Evento: PETER PAN
-Categoría: Teatro Musical
-Lugar: Auditorio Municipal
-
-Día: 16 JUL
-Hora: 18:30 h
-Evento: LA LEYENDA DE OCHI | Cine y Filosofía
-Categoría: Ciclo de cine
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 17 JUL
+Día: 23 JUL
 Hora: 15:00 h
-Evento: MINIONS & MONSTRUOS
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 17 JUL
-Hora: 16:00 h
-Evento: ESPACIO CULTURAL PARA INFANCIAS
-Categoría: Vacaciones de invierno
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 17 JUL
-Hora: 17:00 h
-Evento: EXPO ESQUEL INVIERNO 2026
-Categoría: Feria
-Lugar: Gimnasio Municipal
-
-Día: 17 JUL
-Hora: 18:00 h
-Evento: LOS ENREDOS DE RAPUNZEL
-Categoría: Teatro Musical
-Lugar: Auditorio Municipal
-
-Día: 17 JUL
-Hora: 20:00 h
-Evento: TOYS STORY 5
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 17 JUL
-Hora: 21:00 h
-Evento: PA' QUE ME INVITAN
-Categoría: Murga
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 18 JUL
-Hora: 15:00 h
-Evento: MINIONS & MONSTRUOS
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 18 JUL
-Hora: 16:00 h
-Evento: ESPACIO CULTURAL PARA INFANCIAS
-Categoría: Vacaciones de invierno
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 18 JUL
-Hora: 17:00 h
-Evento: EXPO ESQUEL INVIERNO 2026
-Categoría: Feria
-Lugar: Gimnasio Municipal
-
-Día: 18 JUL
-Hora: 17:30 h
-Evento: TOYS STORY 5
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 18 JUL
-Hora: 20:30 h
-Evento: SUPERGIRL
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 20 JUL
-Hora: 15:00 h<br>20:00 h
-Evento: TOYS STORY 5
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 20 JUL
-Hora: 18:00 h
-Evento: PETER PAN
-Categoría: Teatro Musical
-Lugar: Auditorio Municipal
-
-Día: 20 JUL
-Hora: 19:30 h
-Evento: PATAGONIA SIN FRONTERAS | GUIDO VITTONE
-Categoría: Presentación de libro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 21 JUL
-Hora: 15:00 h<br>20:00 h
-Evento: TOYS STORY 5
-Categoría: Cine municipal
-Lugar: Auditorio Municipal
-
-Día: 21 JUL
-Hora: 19:30 h
-Evento: LIBROS INFANTILES | Carolina Aguirre López
-Categoría: Presentación de libros
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 22 JUL
-Hora: 18:00 h
-Evento: PETER PAN
-Categoría: Teatro Musical
+Evento: TOY STORY 5
+Categoría: Cine
 Lugar: Auditorio Municipal
 
 Día: 23 JUL
-Hora: 18:00 h
-Evento: LOS ENREDOS DE RAPUNZEL
-Categoría: Teatro Musical
+Hora: 20:00 h
+Evento: TOY STORY 5
+Categoría: Cine
 Lugar: Auditorio Municipal
+
+Día: 24 JUL
+Hora: 16:00 h
+Evento: ESPACIO CULTUTAL PARA INFANCIAS
+Categoría: Infancias
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 24 JUL
+Hora: 20:00 h
+Evento: TOY STORY 5
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 25 JUL
+Hora: 15:00 h
+Evento: MOANA
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 25 JUL
+Hora: 16:00 h
+Evento: ESPACIO CULTUTAL PARA INFANCIAS
+Categoría: Infancias
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 25 JUL
 Hora: 19:00 h
 Evento: CLEOPATRA, LA ÚLTIMA REINA
 Categoría: Danzas Árabes
 Lugar: Auditorio Municipal
+
+Día: 25 JUL
+Hora: 20:30 h
+Evento: EVIL DEAD
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 26 JUL
+Hora: 16:00 h
+Evento: ESPACIO CULTUTAL PARA INFANCIAS
+Categoría: Infancias
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 26 JUL
+Hora: 18:00 h
+Evento: ZAMA
+Categoría: Cine y Filosofía
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 26 JUL
+Hora: 19:00 h
+Evento: NAGHAM | Danzar entre melodías
+Categoría: Danzas Árabes
+Lugar: Auditorio Municipal
+
+Día: 28 JUL
+Hora: 17:00 h
+Evento: TOY STORY 5
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 28 JUL
+Hora: 21:50 h
+Evento: MOANA
+Categoría: Cine
+Lugar: Auditorio Municipal
+
+Día: 2 AGO
+Hora: 14:00 h
+Evento: LOS CUATRO ALTARES
+Categoría: Cine Debate
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 8 AGO
 Hora: 21:00 h

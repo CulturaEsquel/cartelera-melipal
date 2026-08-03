@@ -1,14 +1,20 @@
-Día: 2 AGO
-Hora: 14:00 h
-Evento: LOS CUATRO ALTARES
-Categoría: Cine Debate
-Lugar: Centro Cultural Esquel Melipal
+Día: 7 AGO
+Hora: 21:00 h
+Evento: YHOSVA MONTOYA
+Categoría: Música
+Lugar: Auditorio Municipal
 
 Día: 8 AGO
 Hora: 21:00 h
 Evento: ANWAR
 Categoría: Danzas Árabes
 Lugar: Auditorio Municipal
+
+Día: 8 AGO
+Hora: 21:00 h
+Evento: NOCHE DE IMPRO | LA CUÁTICA
+Categoría: Impro teatro
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 23 AGO
 Hora: 20:00 h

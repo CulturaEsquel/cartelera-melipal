@@ -1,23 +1,59 @@
-Día: 11 AGO
-Hora: 15:00h
-Evento: SPIDERMAN: Un nuevo día
-Categoría: Cine
+Día: 14 AGO
+Hora: 20:30 h
+Evento: TODOS POR LEO | PEÑA FOLKLÓRICA
+Categoría: Música
 Lugar: Auditorio Municipal
 
-Día: 11 AGO
-Hora: 19:00h
-Evento: LA ODISEA
-Categoría: Cine
-Lugar: Auditorio Municipal
+Día: 14 AGO
+Hora: 21:30 h
+Evento: NOCHE DE IMPRO | LA CUÁTICA E INVITADOS
+Categoría: Improteatro
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 15 AGO
-Hora: 20:30h
+Hora: 20:30 h
 Evento: OCTETAS
 Categoría: Teatro
 Lugar: Auditorio Municipal
 
-Día: 23 AGO
-Hora: 20:00 h
-Evento: LOS ENDOS | Tributo a Génesis
+Día: 16 AGO
+Hora: 14:00 h
+Evento: TODOS POR LEO | PEÑA FOLKLÓRICA
 Categoría: Música
 Lugar: Auditorio Municipal
+
+Día: 16 AGO
+Hora: 20:00 h
+Evento: DÍA DE LAS INFANCIAS
+Categoría: Festejo 
+Lugar: Gimnasio Municipal
+
+Día: 16 AGO
+Hora: 16:00 h
+Evento: TOY STORY 5
+Categoría: Cine 
+Lugar: Cine Municipal
+
+Día: 16 AGO
+Hora: 19:00 h
+Evento: SPIDERMAN
+Categoría: Cine 
+Lugar: Cine Municipal
+
+Día: 16 AGO
+Hora: 19:00 h
+Evento: LA ODISEA
+Categoría: Cine 
+Lugar: Cine Municipal
+
+Día: 22 AGO
+Hora: 19:30 h
+Evento: FESTIVAL Y PEÑA MUNICIPAL
+Categoría: Música y danza 
+Lugar: Gimnasio Municipal
+
+Día: 22 AGO
+Hora: 21:00 h
+Evento: NOCHE DE JAZZ
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal

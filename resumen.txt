@@ -1,33 +1,3 @@
-Día: 22 AGO
-Hora: 19:30 h
-Evento: FESTIVAL Y PEÑA MUNICIPAL
-Categoría: Música y danza 
-Lugar: Gimnasio Municipal
-
-Día: 22 AGO
-Hora: 21:00 h
-Evento: NOCHE DE JAZZ
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 23 AGO
-Hora: 16:00 h
-Evento: IMPRO FUNGI | ESPORAS PRODUCCIONES
-Categoría: Impro teatro con invitados
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 23 AGO
-Hora: 18:00 h
-Evento: EL RETORNO | CICLO DE CINE Y FILOSOFÍA
-Categoría: Cine
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 23 AGO
-Hora: 20:00 h
-Evento: LOS ENDOS
-Categoría: Música
-Lugar: Auditorio Municipal
-
 Día: 13 SEP
 Hora: 21:00 h
 Evento: PURGA | NICO DE TRACY

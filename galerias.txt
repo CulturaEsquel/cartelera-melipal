@@ -1,6 +1,6 @@
 eventos: 12
 talleres: 25
-muestras: 2
+muestras: 4
 
 
 

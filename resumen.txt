@@ -1,37 +1,13 @@
-Día: 4 SEP
+Día: 12 SEP
+Hora: 18:00 h
+Evento: FERIA DE LAS COLECTIVIDADES
+Categoría: Feria/varios
+Lugar: Asociación Española
+
+Día: 12 SEP
 Hora: 21:00 h
-Evento: CHHH! | CHERRO, HECHT Y HERRERA
-Categoría: Música
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 5 SEP
-Hora: 10:00 h
-Evento: ZOMO KIMÜN, MEMORIA VIVA
-Categoría: Encuentro
-Lugar: Museo de Culturas Originarias | Comunidad Nahuelpan
-
-Día: 5 SEP
-Hora: 17:00 h
-Evento: STREAMING Y BROADCAST | SEBASTIÁN ARENA
-Categoría: Seminario
-Lugar: Teatro La Juntadera
-
-Día: 6 SEP
-Hora: 16:00 h
-Evento: ESPACIO CIRCULAR DE LIBROS | 3ERA EDICIÓN
-Categoría: Feria 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6 SEP
-Hora: 17:30 h
-Evento: ZOMO KIMÜN, MEMORIA VIVA
-Categoría: Encuentro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 6 SEP
-Hora: 20:00 h
-Evento: NADIA LARCHER Y PEDRO ROSSI
-Categoría: Música
+Evento: CRIATURA | DELIRIO ESCÉNICO
+Categoría: Teatro
 Lugar: Centro Cultural Esquel Melipal
 
 Día: 12 SEP

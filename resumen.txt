@@ -1,14 +1,8 @@
-Día: 15 SEP
-Hora: 18:00 h
-Evento: LA NOCHE DEL DEMONIO
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 15 SEP
-Hora: 21:00 h
-Evento: YO NARCISO
-Categoría: Cine
-Lugar: Cine Municipal
+Día: 17 SEP
+Hora: 20:00 h
+Evento: DÍA DEL BAILARÍN FOLKLÓRICO ARGENTINO | REMEMBRANZAS
+Categoría: Danza
+Lugar: Auditorio Municipal
 
 Día: 18 SEP
 Hora: 15:00 h
@@ -21,6 +15,24 @@ Hora: 16:00 h
 Evento: FIESTA DE LOS CIRUELOS EN FLOR
 Categoría: Varios
 Lugar: Avenida Ameghino entre Volta y Brown
+
+Día: 19 SEP
+Hora: 18:00 h
+Evento: BAILE COMERCIAL PATAGÓNICO 
+Categoría: Clase intensiva
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 19 SEP
+Hora: 21:00 h
+Evento: NOCHE DE IMPRO | LA CUÁTICA
+Categoría: Improteatro
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 20 SEP
+Hora: 18:00 h
+Evento: BAILE COMERCIAL PATAGÓNICO 
+Categoría: Clase intensiva
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 20 SEP
 Hora: 20:00 h

@@ -1,20 +1,8 @@
-Día: 17 SEP
-Hora: 20:00 h
-Evento: DÍA DEL BAILARÍN FOLKLÓRICO ARGENTINO | REMEMBRANZAS
-Categoría: Danza
-Lugar: Auditorio Municipal
-
 Día: 18 SEP
 Hora: 15:00 h
 Evento: REDES SOCIALES PARA EMPRENDEDORES
 Categoría: Capacitación 
 Lugar: Centro Cultural Esquel Melipal
-
-Día: 19 SEP
-Hora: 16:00 h
-Evento: FIESTA DE LOS CIRUELOS EN FLOR
-Categoría: Varios
-Lugar: Avenida Ameghino entre Volta y Brown
 
 Día: 19 SEP
 Hora: 18:00 h
@@ -39,3 +27,9 @@ Hora: 20:00 h
 Evento: ROSTROS QUE HABITAN LA MEMORIA
 Categoría: Proyección
 Lugar: Auditorio Municipal
+
+Día: 27 SEP
+Hora: 16:00 h
+Evento: EL ARTE COMO REFUGIO | TALLERES MUNICIPALES DE ARTE
+Categoría: Encuentro de talleres
+Lugar: Predio de La Trochita

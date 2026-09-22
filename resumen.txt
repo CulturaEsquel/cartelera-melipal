@@ -1,33 +1,3 @@
-Día: 18 SEP
-Hora: 15:00 h
-Evento: REDES SOCIALES PARA EMPRENDEDORES
-Categoría: Capacitación 
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 19 SEP
-Hora: 18:00 h
-Evento: BAILE COMERCIAL PATAGÓNICO 
-Categoría: Clase intensiva
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 19 SEP
-Hora: 21:00 h
-Evento: NOCHE DE IMPRO | LA CUÁTICA
-Categoría: Improteatro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 20 SEP
-Hora: 18:00 h
-Evento: BAILE COMERCIAL PATAGÓNICO 
-Categoría: Clase intensiva
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 20 SEP
-Hora: 20:00 h
-Evento: ROSTROS QUE HABITAN LA MEMORIA
-Categoría: Proyección
-Lugar: Auditorio Municipal
-
 Día: 27 SEP
 Hora: 16:00 h
 Evento: EL ARTE COMO REFUGIO | TALLERES MUNICIPALES DE ARTE

@@ -64,6 +64,12 @@ Evento: AVENGERS ENDGAME
 Categoría: Cine
 Lugar: Cine Municipal
 
+Día: 30 SEP
+Hora: 21:00 h
+Evento: CHARLAS DEL COMPLEJO PLAZA DEL CIELO
+Categoría: Ciclo de Charlas
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 9 OCT
 Hora: 21:00 h
 Evento: GIRA ENTRE ALERCES | LITTO NEBBIA

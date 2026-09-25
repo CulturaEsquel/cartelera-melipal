@@ -1,5 +1,77 @@
+Día: 25 SEP
+Hora: 16:00 h
+Evento: COYOTE VS ACME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 26 SEP
+Hora: 13:00 h
+Evento: COYOTE VS ACME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 26 SEP
+Hora: 16:00 h
+Evento: FIESTA DE LOS CIRUELOS EN FLOR
+Categoría: Feria y espectáculos
+Lugar: Avenida Ameghino entre Volta y Brown
+
+Día: 27 SEP
+Hora: 14:00 h
+Evento: AVENGERS ENDGAME
+Categoría: Cine
+Lugar: Cine Municipal
+
 Día: 27 SEP
 Hora: 16:00 h
 Evento: EL ARTE COMO REFUGIO | TALLERES MUNICIPALES DE ARTE
 Categoría: Encuentro de talleres
 Lugar: Predio de La Trochita
+
+Día: 27 SEP
+Hora: 19:00 h
+Evento: AVENGERS ENDGAME
+Categoría: Cine + Intercambio
+Lugar: Auditorio Municipal
+
+Día: 27 SEP
+Hora: 20:00 h
+Evento: VARIETÉ ARTÍSTICA | GRUPO DESPIÉRTATE
+Categoría: Varieté
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 28 SEP
+Hora: 16:00 h
+Evento: COYOTE VS ACME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 28 SEP
+Hora: 19:30 h
+Evento: AVENGERS ENDGAME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 29 SEP
+Hora: 16:00 h
+Evento: COYOTE VS ACME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 29 SEP
+Hora: 19:30 h
+Evento: AVENGERS ENDGAME
+Categoría: Cine
+Lugar: Cine Municipal
+
+Día: 9 OCT
+Hora: 21:00 h
+Evento: GIRA ENTRE ALERCES | LITTO NEBBIA
+Categoría: Música
+Lugar: Auditorio Municipal
+
+Día: 9 OCT
+Hora: 21:00 h
+Evento: EL BEBÉ Y EL AGUA | CECILIA MARINA CAVALIÉ
+Categoría: Presentación de libro
+Lugar: Centro Cultural Esquel Melipal

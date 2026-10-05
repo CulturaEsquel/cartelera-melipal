@@ -1,14 +1,3 @@
-Día: 2 OCT
-Hora: 17:00 h
-Evento: GUARDIANES DEL MUSEO 2
-Categoría: Cine
-Lugar: Cine Municipal
-
-Día: 3 OCT
-Hora: 20:00 h
-Evento: VII MUESTRA DEL GRABADO
-Categoría: Inauguración
-Lugar: Centro Cultural Esquel Melipal
 Día: 9 OCT
 Hora: 21:00 h
 Evento: GIRA ENTRE ALERCES | LITTO NEBBIA

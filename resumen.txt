@@ -1,21 +1,3 @@
-Día: 9 OCT
-Hora: 21:00 h
-Evento: GIRA ENTRE ALERCES | LITTO NEBBIA
-Categoría: Música
-Lugar: Auditorio Municipal
-
-Día: 9 OCT
-Hora: 21:00 h
-Evento: EL BEBÉ Y EL AGUA | CECILIA MARINA CAVALIÉ
-Categoría: Presentación de libro
-Lugar: Centro Cultural Esquel Melipal
-
-Día: 11 OCT
-Hora: 21:00 h
-Evento: EL PÉNDULO ROTO | EL PATIO
-Categoría: Teatro
-Lugar: Auditorio Municipal
-
 Día: 14 OCT
 Hora: 21:00 h
 Evento: EL CAMINO DE SOLGO | RALY BARRIONUEVO

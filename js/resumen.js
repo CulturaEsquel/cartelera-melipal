@@ -2,7 +2,7 @@ fetch('resumen.txt')
   .then(response => response.text())
   .then(data => {
     const eventos = data.trim().split(/(?:\r?\n){2,}/);
-    let html ='<div class="p-1" id="alto">';
+    let html = '<div class="p-1" id="alto">';
 
     eventos.forEach(evento => {
       const lineas = evento.split('\n');
@@ -15,23 +15,23 @@ fetch('resumen.txt')
       });
 
       html += `
-      <div class="card mb-2 position-relative lh-1">
-        <span class="badge rounded-pill text-bg-secondary position-absolute top-0 end-0">${eventoObj['Categoría'] || ''}</span>
-        <div class="row g-0">
-          <div class="col-auto align-self-center text-center p-2 border-end">
-            <div class="fs-4 fw-bold">${eventoObj['Día'] || ''}</div>
+      <div class="card">
+        <span class="badge">${eventoObj['Categoría'] || ''}</span>
+        <div class="row">
+          <div style="text-align: center; padding: 10px; border-right: 1px solid rgba(255,255,255,0.1); min-width: 65px;">
+            <div class="fs-4">${eventoObj['Día'] || ''}</div>
             <div class="fs-7 text-uppercase">${eventoObj['Mes'] || ''}</div>
             <div class="fs-7 text-muted">${eventoObj['Hora'] || ''}</div>
           </div>
-          <div class="col align-self-center p-2 mt-3">
-            <div class="fw-semibold fs-6">${eventoObj['Evento'] || ''}</div>
-            <div class="text-body-secondary fs-8">${eventoObj['Lugar'] || ''}</div>
+          <div style="padding-left: 10px; flex-grow: 1;">
+            <div class="fs-6">${eventoObj['Evento'] || ''}</div>
+            <div class="fs-8">${eventoObj['Lugar'] || ''}</div>
           </div>
         </div>
       </div>`;
     });
 
-    html += '</div>';
+    html += '</div>'; // <--- ¡Cierre correcto del contenedor id="alto"!
     document.getElementById('resumen-contenido').innerHTML = html;
   })
   .catch(error => console.error('Error al cargar el resumen:', error));

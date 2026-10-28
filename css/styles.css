@@ -1,121 +1,193 @@
-/*
+/* Reset global y bloqueo de scroll para TV */
 html, body {
-  height: 100%;
-  margin: 0;
-}
-
-.zona {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  position: relative;
-}
-
-.zona img {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-}
-
-.zona img.active {
-  opacity: 1;
-}
-
-.etiqueta-vertical {
-  position: absolute;
-  transform: rotate(-90deg) translateX(-50%) ;
-  transform-origin: left top;
-}
-
-.fs-7{
-  font-size: 0.85rem;
-}
-
-.fs-8{
-  font-size: 0.7rem;
-}
-
-#resumen {
-  overflow-y: auto;
-  max-height: 100vh;*/
-  /*padding-right: 6px; para evitar superposición con el scroll 
-}*/
-/*
-#resumen::-webkit-scrollbar {
-  width: 0;
-}*/
-
-/* Estructura general */
-html, body {
-  height: 100%;
+  height: 100vh;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #0d1117;
+  color: #f0f6fc;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
-.container-fluid, .row {
+/* Grilla principal de la pantalla (16:9) */
+.cartelera-grid {
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+  grid-template-columns: 2.2fr 5.6fr 4.2fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas:
+    "resumen eventos talleres"
+    "resumen eventos muestras";
+  gap: 6px;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+/* --- ZONA 1: RESUMEN (Izquierda) --- */
+.zona-resumen {
+  grid-area: resumen;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
   height: 100%;
+  box-sizing: border-box;
+  overflow: hidden; /* Evita desbordamientos generales de la caja */
 }
 
+.resumen-titulo {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #58a6ff;
+  flex-shrink: 0; /* Evita que el título se comprima */
+}
+
+/* Contenedor interno que maneja el área scrollable o animada */
+.resumen-scroll-container {
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden; /* Mantiene controlado el scroll para las animaciones JS */
+}
+
+/* Estilos para las tarjetas de eventos generadas por resumen.js */
+.card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  margin-bottom: 8px;
+  padding: 8px;
+  position: relative;
+}
+
+.card .row {
+  display: flex;
+  align-items: center;
+  padding-top: 16px;
+}
+
+.card .badge {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  background-color: #30363d;
+  color: #c9d1d9;
+  padding: 2px 8px;
+  font-size: 0.65rem;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* --- ZONA 2: EVENTOS (Centro, Principal) --- */
+.zona-carrusel {
+  grid-area: eventos;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #000;
+}
+
+/* --- ZONA 3 y 4: TALLERES Y MUESTRAS (Derecha) --- */
+.zona-talleres-wrapper {
+  grid-area: talleres;
+  display: grid;
+  grid-template-columns: 35px 1fr 90px;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 8px;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.zona-muestras-wrapper {
+  grid-area: muestras;
+  display: grid;
+  grid-template-columns: 35px 1fr 90px;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 8px;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Zonas de carruseles secundarios */
 .zona {
   position: relative;
   width: 100%;
   height: 100%;
   overflow: hidden;
+  border-radius: 6px;
+  background: #000;
 }
 
+/* Código QR de talleres */
+.zona-qr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.zona-qr img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+/* Etiquetas verticales institucionales */
+.etiqueta-vertical {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #8b949e;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* --- CONFIGURACIÓN DE IMÁGENES DE LOS CARRUCELES --- */
+.zona-carrusel img,
 .zona img {
   position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: contain; /* Cambiar a 'cover' si prefieres llenar toda la pantalla sin bandas */
   opacity: 0;
   transition: opacity 1s ease-in-out;
 }
 
+.zona-carrusel img.active,
 .zona img.active {
   opacity: 1;
 }
 
-/* Etiquetas verticales */
-.etiqueta-vertical {
-  position: absolute;
-  transform: rotate(-90deg) translateX(-50%) ;
-  transform-origin: left top;
-}
-
-.zona-wrapper {
-  position: relative;
-  height: 100%;
-}
-
- 
-/*Marquesina vertical para zona resumen*/
-
-#resumen {
-  overflow: hidden;
-  position: relative;
-}
-/*
-.marquee {
-  display: inline-block;
-  animation: scroll-up linear infinite;
-  animation-duration: 40s;
-}
-
-@keyframes scroll-up {
-  0% { transform: translateY(100%); }
-  100% { transform: translateY(-100%); }
-}
-*/
-
-/* Escalas de fuente personalizadas */
-.fs-7 {
-  font-size: 0.75rem !important;
-}
-
-.fs-8 {
-  font-size: 0.65rem !important;
-}
+/* Tipografías de apoyo */
+.fs-4 { font-size: 1.2rem; font-weight: bold; }
+.fs-6 { font-size: 0.95rem; font-weight: 600; }
+.fs-7 { font-size: 0.8rem; }
+.fs-8 { font-size: 0.7rem; color: #8b949e; }
+.text-uppercase { text-transform: uppercase; }
+.text-muted, .text-body-secondary { color: #8b949e; }

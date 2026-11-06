@@ -4,10 +4,40 @@ Evento: LA ISLA DE UPSTEIN | LUCAS UPSTEIN
 Categoría: Espectáculo de Stand up
 Lugar: Auditorio Municipal
 
+Día: 6 NOV
+Hora: 21:00 h
+Evento: ANTÜ PAILLACAN TRÍO
+Categoría: Música
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 7 NOV
+Hora: 20:00 h
+Evento: EL SILENCIO DE LOS HOMBRES 
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 7 NOV
+Hora: 20:00 h
+Evento: NO HAY DRAMA (1XX) | KARINA ALBORNOZ 
+Categoría: Inauguración
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 7 NOV
 Hora: 21:00 h
 Evento: RAQS PATAGONIA ORIENTAL GALA SHOW
 Categoría: Danza
+Lugar: Auditorio Municipal
+
+Día: 8 NOV
+Hora: 20:00 h
+Evento: VOCES EN ESCENA 
+Categoría: Muestra de oradores
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 10 NOV
+Hora: 20:30 h
+Evento: CONCIERTO DE PELÍCULA | BANDA MILITAR "MALVINAS ARGENTINAS"
+Categoría: Música
 Lugar: Auditorio Municipal
 
 Día: 14 NOV
@@ -15,6 +45,18 @@ Hora: 20:00 h
 Evento: PEÑA MUNICIPAL Y BINGO SOLIDARIO
 Categoría: Espectáculos y bingo
 Lugar: Gimnasio Municipal
+
+Día: 14 NOV
+Hora: 20:30 h
+Evento: ACRO ESQUEL | ESCUELA DE ACROBACIA & CIRCO
+Categoría: Circo
+Lugar: Auditorio Municipal
+
+Día: 15 NOV
+Hora: 16:00 h
+Evento: ESPACIO CIRCULAR DE LIBROS
+Categoría: Feria de libros
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 22 NOV
 Hora: 20:00 h

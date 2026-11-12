@@ -1,13 +1,14 @@
-Día: 6 NOV
+Día: 18 NOV
+Hora: 18:00 h
+Evento: LA ORQUESTA MUNICIPAL PU PICHIKECHE VA AL BARRIO
+Categoría: Taller de música
+Lugar: Sede vecinal barrio Matadero
+
+Día: 13 NOV
 Hora: 21:00 h
-Evento: LA ISLA DE UPSTEIN | LUCAS UPSTEIN
-Categoría: Espectáculo de Stand up
-Lugar: Auditorio Municipal
-Día: 10 NOV
-Hora: 20:30 h
-Evento: CONCIERTO DE PELÍCULA | BANDA MILITAR "MALVINAS ARGENTINAS"
+Evento: CONCIERTO DE FIN DE AÑO | VOCAL DEL PINAR
 Categoría: Música
-Lugar: Auditorio Municipal
+Lugar: Centro Cultural Esquel Melipal
 
 Día: 14 NOV
 Hora: 20:00 h
@@ -21,11 +22,29 @@ Evento: ACRO ESQUEL | ESCUELA DE ACROBACIA & CIRCO
 Categoría: Circo
 Lugar: Auditorio Municipal
 
+Día: 14 NOV
+Hora: 21:00 h
+Evento: ¡QUÉ DIFÍCIL EL AMOR! | LA CUÁTICA
+Categoría: Impro teatro
+Lugar: Centro Cultural Esquel Melipal
+
 Día: 15 NOV
 Hora: 16:00 h
 Evento: ESPACIO CIRCULAR DE LIBROS
 Categoría: Feria de libros
 Lugar: Centro Cultural Esquel Melipal
+
+Día: 15 NOV
+Hora: 19:00 h
+Evento: BLACKBIRD, BLACKBIRD, BLACKBERRY | CINE Y FILOSOFÍA
+Categoría: Cine
+Lugar: Centro Cultural Esquel Melipal
+
+Día: 19 NOV
+Hora: 19:00 h
+Evento: ENCANTADOS 
+Categoría: Música
+Lugar: Auditorio Extensión Áulica UDC
 
 Día: 22 NOV
 Hora: 20:00 h

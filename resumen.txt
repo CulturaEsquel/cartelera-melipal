@@ -1,9 +1,3 @@
-Día: 24 NOV
-Hora: 21:30 h
-Evento: YO SOY ROCKY
-Categoría: Cine
-Lugar: Cine Municipal
-
 Día: 24 AL 27 NOV
 Evento: BITÁCORAS | TALLERES MUNICIPALES DE ARTE
 Categoría: Muestra estática
